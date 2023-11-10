@@ -121,6 +121,3 @@ Two options are already proposed in the brief: using either Python or Java to im
 
 
 
-
-
-

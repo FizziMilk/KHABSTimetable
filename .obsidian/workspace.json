@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Project/Project Breakdown.md",
+                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Project/Project Breakdown.md",
+                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Project/Project Breakdown.md",
+                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Project/Project Breakdown.md"
+                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md"
               }
             }
           }
@@ -146,15 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcb848e6f665f3c7",
+  "active": "71718cc2e459bb5e",
   "lastOpenFiles": [
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Pasted image 20231110181744.png.md",
+    "Benas/Project/Project Breakdown.md",
+    "Benas/Work Breakdown Structure.md",
+    "Benas/Project Management Research.md",
+    "Benas/PMBOK Guide.md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-..).md",
     "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
     "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
     "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Harrison/Presentation",
     "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
     "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
@@ -163,9 +168,6 @@
     "Harrison/Tasks",
     "Harrison/Team Members.md",
     "Harrison",
-    "Benas/PMBOK Guide.md",
-    "Benas",
-    "Benas/Project Management Research.md",
-    "Benas/Project/Project Breakdown.md"
+    "Benas"
   ]
 }
