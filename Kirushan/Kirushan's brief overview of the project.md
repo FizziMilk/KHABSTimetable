@@ -13,10 +13,10 @@ Enhanced Communication and Accessibility:- Timetabling systems frequently have i
 
 **Applications of timetabling systems in the real world include:**
 
-Educational Institutions: Timetabling systems are used by schools, colleges, and universities to efficiently handle student enrolments, assign professors to courses, and construct class schedules.
+Educational Institutions:- Timetabling systems are used by schools, colleges, and universities to efficiently handle student enrolments, assign professors to courses, and construct class schedules.
 
-Event Management: To ensure that locations, presenters, and other resources are efficiently coordinated, timetabling systems are used in the planning and scheduling of events, conferences, and festivals.
+Event Management:- To ensure that locations, presenters, and other resources are efficiently coordinated, timetabling systems are used in the planning and scheduling of events, conferences, and festivals.
 
-Transportation and Logistics: Bus, train, airline, and other transit service timetables are managed in large part by timetabling. It facilitates crew scheduling management, vehicle assignment, and route optimisation.
+Transportation and Logistics:- Bus, train, airline, and other transit service timetables are managed in large part by timetabling. It facilitates crew scheduling management, vehicle assignment, and route optimisation.
 
 All things considered, timetabling systems are essential to many different businesses because they provide an organised and effective method of scheduling and resource management, which improves both operational effectiveness and customer happiness.
