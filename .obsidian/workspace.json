@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71718cc2e459bb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "950f2bd374369e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Benas/Project/Project Breakdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa9827d07b93d6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+                "file": "Alex/feasibility study.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+                "file": "Alex/feasibility study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+                "file": "Alex/feasibility study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md"
+                "file": "Alex/feasibility study.md"
               }
             }
           }
@@ -172,26 +147,26 @@
   },
   "active": "aa9827d07b93d6e7",
   "lastOpenFiles": [
-    "Alex/Justification.md",
+    "Benas/Project/Project Breakdown.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "Alex/feasibility study.md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Alex/Justification.md",
     "Alex",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
     "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-..).md",
-    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
-    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "Harrison/Literature Review Paragraphs",
     "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
     "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
     "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
     "Benas/Work Breakdown Structure.md",
     "Benas/Project Management Research.md",
     "Benas/PMBOK Guide.md",
     "conflict-files-obsidian-git.md",
-    "Benas/Project/Project Breakdown.md",
     "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
     "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
     "Pasted image 20231110181744.png.md",
