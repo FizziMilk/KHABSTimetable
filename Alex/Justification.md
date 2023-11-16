@@ -1,0 +1,3 @@
+- Involves software and web development therefore it relates to the interests and background experiences of the group
+- It will develop key technical skills which is going to be beneficial for the future
+- Lots of learning opportunities and complex which we found appealing
