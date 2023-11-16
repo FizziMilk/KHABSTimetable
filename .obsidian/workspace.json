@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d8ceae0f2c866c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eae7f08993fbae23",
             "type": "leaf",
             "state": {
@@ -32,31 +20,30 @@
             }
           },
           {
-            "id": "ec656eb1735d1f8a",
+            "id": "522016161c565049",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c80c87afa16971d",
+            "id": "ec656eb1735d1f8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+                "file": "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,42 +171,43 @@
   },
   "active": "eae7f08993fbae23",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
+    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
+    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
+    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+    "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
+    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
+    "_Project/Object Analysis Notes (2023-10-31) 1.md",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "_Project/Literature Review Paragraphs",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
     "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
     "Alex/Justification.md",
     "Alex/feasibility study.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
     "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
-    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
     "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
     "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
     "Benas/Project Management Research.md",
     "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
-    "conflict-files-obsidian-git.md",
     "_Project/Project Plan.md",
     "_Project/Project Breakdown.md",
     "_Project",
     "Pasted image 20231116162409.png",
     "Pasted image 20231116162328.png",
     "KHABSTimetable",
-    "Benas/Week 7 Lecture.md",
-    "Benas/Work Breakdown Structure.md",
-    "Benas/PMBOK Guide.md",
-    "Benas/Project/Project Breakdown.md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
-    "Sathyan/sustainability.md",
     "Kirushan",
     "Sathyan",
     "Alex",
-    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-..).md",
     "Harrison/Literature Review Paragraphs",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation",
-    "Harrison/Tasks",
-    "Harrison"
+    "Harrison/Tasks"
   ]
 }
