@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0abc727cbee101b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,13 +206,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60cd7b14317a79dc",
+  "active": "0abc727cbee101b5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Alex/Justification.md",
+    "_Project/Project Plan.md",
+    "_Project/Project Breakdown.md",
+    "_Project",
+    "Pasted image 20231116162409.png",
+    "Pasted image 20231116162328.png",
+    "KHABSTimetable",
+    "Benas/Week 7 Lecture.md",
     "Benas/Project Management Research.md",
     "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "Alex/Justification.md",
     "Alex/feasibility study.md",
-    "conflict-files-obsidian-git.md",
     "Benas/PMBOK Guide.md",
     "Benas/Work Breakdown Structure.md",
     "Sathyan/sustainability.md",
@@ -226,8 +245,6 @@
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation",
     "Harrison/Tasks",
-    "Harrison/Team Members.md",
-    "Harrison",
-    "Benas"
+    "Harrison"
   ]
 }
