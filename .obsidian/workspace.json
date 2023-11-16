@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+                "file": "_Project/Project Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,50 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Project/Project Breakdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa9827d07b93d6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sathyan/sustainability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7679447293498dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sathyan/sustainability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ba4cf36fe04e31d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "_Project/Project Breakdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "_Project/Project Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "_Project/Project Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sathyan/sustainability.md"
+                "file": "_Project/Project Plan.md"
               }
             }
           }
@@ -195,13 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcb848e6f665f3c7",
+  "active": "71718cc2e459bb5e",
   "lastOpenFiles": [
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "_Project",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "_Project/Project Plan.md",
+    "Pasted image 20231116162409.png",
+    "Pasted image 20231116162328.png",
+    "_Project/Project Breakdown.md",
     "Benas/Project Management Research.md",
-    "Benas/PMBOK Guide.md",
-    "Benas/Project/Project Breakdown.md",
-    "Kirushan/Untitled.md",
+    "Benas/Week 7 Lecture.md",
     "Sathyan/sustainability.md",
+    "Benas/PMBOK Guide.md",
+    "Kirushan/Untitled.md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
     "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
@@ -218,8 +188,6 @@
     "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
     "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
     "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Benas/Work Breakdown Structure.md",
     "conflict-files-obsidian-git.md",
     "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
@@ -227,7 +195,6 @@
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation",
     "Harrison/Tasks",
-    "Harrison/Team Members.md",
     "Harrison",
     "Benas"
   ]
