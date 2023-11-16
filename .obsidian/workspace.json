@@ -8,42 +8,103 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "eae7f08993fbae23",
+=======
+            "id": "aa9827d07b93d6e7",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Kirushan/Kirushan's brief overview of the project.md",
+=======
+                "file": "Alex/feasibility study.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "522016161c565049",
+=======
+            "id": "5d75ed21cff8c89b",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "Alex/Justification.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "ec656eb1735d1f8a",
+=======
+            "id": "166d4db2e9cea0ff",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
+=======
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62b64ff2b3e379cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60cd7b14317a79dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0abc727cbee101b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,7 +170,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Kirushan/Kirushan's brief overview of the project.md",
+=======
+                "file": "Alex/Justification.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +191,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Kirushan/Kirushan's brief overview of the project.md",
+=======
+                "file": "Alex/Justification.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +218,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Kirushan/Kirushan's brief overview of the project.md"
+=======
+                "file": "Alex/Justification.md"
+>>>>>>> origin/main
               }
             }
           }
@@ -169,6 +242,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "eae7f08993fbae23",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -198,14 +272,49 @@
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "_Project/Project Plan.md",
     "_Project/Project Breakdown.md",
+=======
+  "active": "0abc727cbee101b5",
+  "lastOpenFiles": [
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "_Project/Literature Review Paragraphs",
+    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "Alex/Justification.md",
+    "Alex/feasibility study.md",
+    "_Project/Project Breakdown.md",
+    "_Project/Project Plan.md",
+    "Kirushan/Untitled.md",
+    "Sathyan/sustainability.md",
+    "Harrison/Team Members.md",
+    "Benas/Work Breakdown Structure.md",
+    "Benas/Week 7 Lecture.md",
+    "conflict-files-obsidian-git.md",
+>>>>>>> origin/main
     "_Project",
     "Pasted image 20231116162409.png",
     "Pasted image 20231116162328.png",
     "KHABSTimetable",
+<<<<<<< HEAD
     "Kirushan",
+=======
+    "Benas/Project Management Research.md",
+    "Benas/PMBOK Guide.md",
+>>>>>>> origin/main
     "Sathyan",
+    "Kirushan",
+    "Benas/Project/Project Breakdown.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "Alex",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-..).md",
     "Harrison/Literature Review Paragraphs",
+    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
+    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation",
     "Harrison/Tasks"
