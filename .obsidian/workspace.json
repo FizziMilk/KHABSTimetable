@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32737f066dcc9344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sathyan/sustainability.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -182,11 +194,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fa6ec093cec0279",
+  "active": "32737f066dcc9344",
   "lastOpenFiles": [
+    "Kirushan/Untitled.md",
+    "Kirushan",
+    "Sathyan/sustainability.md",
+    "conflict-files-obsidian-git.md",
     "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Sathyan/sustainability.md",
     "Sathyan",
     "Alex/Justification.md",
     "Alex/feasibility study.md",
@@ -204,7 +219,6 @@
     "Benas/Work Breakdown Structure.md",
     "Benas/Project Management Research.md",
     "Benas/PMBOK Guide.md",
-    "conflict-files-obsidian-git.md",
     "Benas/Project/Project Breakdown.md",
     "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
     "Pasted image 20231110181744.png.md",
