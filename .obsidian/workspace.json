@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7679447293498dae",
+  "active": "bcb848e6f665f3c7",
   "lastOpenFiles": [
     "Benas/Project Management Research.md",
     "Benas/PMBOK Guide.md",
