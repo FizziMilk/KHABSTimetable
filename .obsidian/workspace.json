@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "26af0ed14a907c09",
+        "id": "6d496add6602761d",
         "type": "tabs",
         "children": [
           {
-            "id": "10b94592a6929897",
+            "id": "71718cc2e459bb5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "Benas/Week 7 Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "950f2bd374369e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Project/Project Breakdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "Benas/Week 7 Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "Benas/Week 7 Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md"
+                "file": "Benas/Week 7 Lecture.md"
               }
             }
           }
@@ -133,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,39 +158,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10b94592a6929897",
+  "active": "71718cc2e459bb5e",
   "lastOpenFiles": [
+    "_Project/Project Breakdown.md",
+    "Benas/Week 7 Lecture.md",
+    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
     "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
-    "conflict-files-obsidian-git.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
     "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
     "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
-    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
-    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
     "_Project/Object Analysis Notes (2023-10-31) 1.md",
+    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
+    "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
+    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
+    "conflict-files-obsidian-git.md",
     "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "_Project/Literature Review Paragraphs",
-    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
-    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "Alex/Justification.md",
-    "Alex/feasibility study.md",
-    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
-    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
-    "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
-    "Benas/Project Management Research.md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "New Text Document.txt",
     "_Project/Project Plan.md",
-    "_Project/Project Breakdown.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "_Project",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Pasted image 20231116162409.png",
     "Pasted image 20231116162328.png",
-    "KHABSTimetable",
+    "Benas/Project Management Research.md",
+    "Sathyan/sustainability.md",
+    "Benas/PMBOK Guide.md",
+    "Kirushan/Untitled.md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "Kirushan",
     "Sathyan",
     "Alex",
