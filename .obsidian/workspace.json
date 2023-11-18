@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Project/Project Plan.md",
+                "file": "KHABSTimetable/Project/Project Breakdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d99fde6100d175a",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Project/Project Plan.md",
+                "file": "KHABSTimetable/Project/Project Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Project/Project Plan.md",
+                "file": "KHABSTimetable/Project/Project Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Project/Project Plan.md"
+                "file": "KHABSTimetable/Project/Project Breakdown.md"
               }
             }
           }
@@ -161,37 +160,37 @@
   },
   "active": "71718cc2e459bb5e",
   "lastOpenFiles": [
-    "_Project/Project Breakdown.md",
-    "Sathyan/sustainability.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "_Project/Object Analysis Notes (2023-10-31) 1.md",
-    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
-    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "KHABSTimetable/Engineers 2020.md",
+    "KHABSTimetable/Work Breakdown Structure.md",
+    "KHABSTimetable/Project Management Research.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
     "Benas/Work Breakdown Structure.md",
     "Benas/Week 7 Lecture.md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
-    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
+    "Benas/Project Management Research.md",
+    "Benas/PMBOK Guide.md",
+    "_Project/Project Breakdown.md",
+    "_Project/Project Plan.md",
     "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
     "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
     "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
     "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "conflict-files-obsidian-git.md",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "_Project/Object Analysis Notes (2023-10-31) 1.md",
+    "Sathyan/sustainability.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
     "_Project/Literature Review Paragraphs",
     "New Text Document.txt",
-    "_Project/Project Plan.md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "_Project",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Pasted image 20231116162409.png",
     "Pasted image 20231116162328.png",
-    "Benas/Project Management Research.md",
-    "Benas/PMBOK Guide.md",
-    "Kirushan/Untitled.md",
-    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
-    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
-    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
     "Kirushan",
     "Sathyan",
     "Alex",
