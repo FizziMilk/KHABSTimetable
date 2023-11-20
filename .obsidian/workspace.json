@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "929d12824388f3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "950f2bd374369e22",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Project/Project Plan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Project/Project Plan.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Project/Project Plan.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71718cc2e459bb5e",
+  "active": "929d12824388f3af",
   "lastOpenFiles": [
+    "_Project/Project Plan.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20231118194639.png",
     "KHABSTimetable/Project/Gantt Chart.xlsx",
     "Pasted image 20231118193704.png",
@@ -179,7 +194,6 @@
     "Benas/Project Management Research.md",
     "Benas/PMBOK Guide.md",
     "_Project/Project Breakdown.md",
-    "_Project/Project Plan.md",
     "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
     "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
     "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
