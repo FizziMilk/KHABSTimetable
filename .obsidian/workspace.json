@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KHABSTimetable/Project/Project Breakdown.md",
+                "file": "_Project/Project Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KHABSTimetable/Project/Project Breakdown.md",
+                "file": "_Project/Project Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KHABSTimetable/Project/Project Breakdown.md",
+                "file": "_Project/Project Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KHABSTimetable/Project/Project Breakdown.md"
+                "file": "_Project/Project Plan.md"
               }
             }
           }
@@ -160,6 +160,10 @@
   },
   "active": "71718cc2e459bb5e",
   "lastOpenFiles": [
+    "Pasted image 20231118194639.png",
+    "KHABSTimetable/Project/Gantt Chart.xlsx",
+    "Pasted image 20231118193704.png",
+    "KHABSTimetable/Project/Project Breakdown.md",
     "KHABSTimetable/Engineers 2020.md",
     "KHABSTimetable/Work Breakdown Structure.md",
     "KHABSTimetable/Project Management Research.md",
@@ -184,8 +188,6 @@
     "_Project/AHEP - Engineering Council Research for Presentation 1.md",
     "_Project/Object Analysis Notes (2023-10-31) 1.md",
     "Sathyan/sustainability.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
     "_Project/Literature Review Paragraphs",
     "New Text Document.txt",
     "_Project",
@@ -196,7 +198,6 @@
     "Alex",
     "Harrison/Literature Review Paragraphs",
     "Harrison/Meetings (Semester 1)",
-    "Harrison/Presentation",
-    "Harrison/Tasks"
+    "Harrison/Presentation"
   ]
 }
