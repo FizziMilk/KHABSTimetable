@@ -78,9 +78,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7063e21ae9d8cda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4753714ace0825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8088909babf84d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Project/Project Breakdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87b0e7098e5d5f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39754cbc44b7bc8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "322f3c141673667b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c81410ac939f78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -146,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "Alex/Justification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "Alex/Justification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md"
+                "file": "Alex/Justification.md"
               }
             }
           }
@@ -206,43 +290,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0abc727cbee101b5",
+  "active": "6c81410ac939f78a",
   "lastOpenFiles": [
-    "Alex/Justification.md",
     "Alex/feasibility study.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
     "conflict-files-obsidian-git.md",
-    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "_Project/Literature Review Paragraphs",
-    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "_Project/Project Breakdown.md",
+    "Alex/Justification.md",
+    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+    "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
+    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
     "_Project/Project Plan.md",
-    "Kirushan/Untitled.md",
-    "Sathyan/sustainability.md",
-    "Harrison/Team Members.md",
-    "Benas/Work Breakdown Structure.md",
-    "Benas/Week 7 Lecture.md",
-    "_Project",
     "Pasted image 20231116162409.png",
     "Pasted image 20231116162328.png",
-    "KHABSTimetable",
+    "Sathyan/sustainability.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "_Project/Project Breakdown.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "Harrison/Team Members.md",
+    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+    "_Project/Object Analysis Notes (2023-10-31) 1.md",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "Benas/Work Breakdown Structure.md",
+    "Benas/Week 7 Lecture.md",
     "Benas/Project Management Research.md",
     "Benas/PMBOK Guide.md",
+    "_Project/Literature Review Paragraphs",
+    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "Kirushan/Untitled.md",
+    "_Project",
+    "KHABSTimetable",
     "Sathyan",
     "Kirushan",
-    "Benas/Project/Project Breakdown.md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "Alex",
-    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
-    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-..).md",
     "Harrison/Literature Review Paragraphs",
-    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
-    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation",
     "Harrison/Tasks"
