@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "_Project/CHATGPT - Springboot and java backend 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "_Project/CHATGPT - Springboot and java backend 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "_Project/CHATGPT - Springboot and java backend 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md"
+                "file": "_Project/CHATGPT - Springboot and java backend 1.md"
               }
             }
           }
@@ -220,6 +220,9 @@
   },
   "active": "35f8e2e0f650c380",
   "lastOpenFiles": [
+    "Alex/Justification.md",
+    "Alex/feasibility study.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
     "conflict-files-obsidian-git.md",
     "_Project/CHATGPT - Springboot and java backend 1.md",
     "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
@@ -230,7 +233,6 @@
     "_Project/Project Plan.md",
     "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "Kirushan/Kirushan's brief overview of the project.md",
     "_Project/AHEP - Engineering Council Research for Presentation 1.md",
     "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
     "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
@@ -247,11 +249,9 @@
     "Pasted image 20231116162409.png",
     "KHABSTimetable",
     "Benas/Week 7 Lecture.md",
-    "Alex/feasibility study.md",
     "Kirushan/Untitled.md",
     "Kirushan",
     "Sathyan",
-    "Alex/Justification.md",
     "Alex",
     "_Project/Literature Review Paragraphs",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
