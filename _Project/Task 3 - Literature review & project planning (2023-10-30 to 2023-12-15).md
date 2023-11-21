@@ -2,7 +2,7 @@
 - 1. Context for why we chose the project (eg. we code)
 - 2. Potential real-world applications (eg. school)
 
-- [ ] A brief overview of the project (less than 300 words) containing [KIRUSHAN]
+- [x] A brief overview of the project (less than 300 words) containing [KIRUSHAN]
 - 1. Context for why we chose the project (eg. we code)
 - 2. Potential real-world applications (eg. school)
 ^ based on initial literature review
@@ -12,7 +12,7 @@
 
 - [ ] A list of resources required (eg. Software IDE, database, knowledge of number of rooms and lecturers, time to develop, cost, expertise) [SATHYAN]
 
-- [ ] A Gant Chart representing project stages and their timelines AND 4 indicative meeting dates (SGRM) [BENAS]
+- [x] A Gant Chart representing project stages and their timelines AND 4 indicative meeting dates (SGRM) [BENAS]
 
 - [x] A Table representing the roles of each member
 
