@@ -13,74 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+                "file": "Kirushan/Kirushan's brief overview of the project.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa9827d07b93d6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fa6ec093cec0279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sathyan/sustainability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c5357b2ed58115a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "447691e33b37cd56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Project/Project Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7052fc838dd96ae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Project/CHATGPT - Springboot and java backend 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35f8e2e0f650c380",
+            "id": "950f2bd374369e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0d99fde6100d175a",
@@ -206,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,46 +159,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f8e2e0f650c380",
+  "active": "950f2bd374369e22",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "_Project/CHATGPT - Springboot and java backend 1.md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Pasted image 20231118194639.png",
-    "Pasted image 20231118193704.png",
-    "Pasted image 20231116162328.png",
-    "CHATGPT - Springboot and java backend.md",
-    "_Project/Project Plan.md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
-    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
-    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
-    "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
-    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "_Project/Object Analysis Notes (2023-10-31) 1.md",
-    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "Sathyan/sustainability.md",
     "_Project/Project Breakdown.md",
+    "_Project/Project Plan.md",
+    "_Project/Object Analysis Notes (2023-10-31) 1.md",
+    "_Project/CHATGPT - Springboot and java backend 1.md",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
+    "Alex/Justification.md",
+    "Benas/Project Management Research.md",
+    "KHABSTimetable/Work Breakdown Structure.md",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "Alex/feasibility study.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20231118194639.png",
+    "KHABSTimetable/Project/Gantt Chart.xlsx",
+    "Pasted image 20231118193704.png",
+    "KHABSTimetable/Project/Project Breakdown.md",
+    "KHABSTimetable/Engineers 2020.md",
+    "KHABSTimetable/Project Management Research.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
+    "Benas/Work Breakdown Structure.md",
+    "Benas/Week 7 Lecture.md",
+    "_Project/Literature Review Paragraphs",
+    "New Text Document.txt",
     "_Project",
     "Pasted image 20231116162409.png",
-    "KHABSTimetable",
-    "Benas/Week 7 Lecture.md",
-    "Alex/feasibility study.md",
-    "Kirushan/Untitled.md",
+    "Pasted image 20231116162328.png",
     "Kirushan",
     "Sathyan",
-    "Alex/Justification.md",
     "Alex",
-    "_Project/Literature Review Paragraphs",
-    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+    "Harrison/Literature Review Paragraphs",
     "Harrison/Meetings (Semester 1)",
-    "Harrison/Presentation",
-    "Harrison/Tasks",
-    "Harrison"
+    "Harrison/Presentation"
   ]
 }
