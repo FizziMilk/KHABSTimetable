@@ -8,79 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71718cc2e459bb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa9827d07b93d6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+                "file": "Alex/feasibility study.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5fa6ec093cec0279",
+            "id": "5d75ed21cff8c89b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "Alex/Justification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c5357b2ed58115a",
+            "id": "166d4db2e9cea0ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+                "file": "Alex/Justification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "447691e33b37cd56",
+            "id": "62b64ff2b3e379cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Project/Project Plan.md",
+                "file": "Alex/Justification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7052fc838dd96ae3",
+            "id": "60cd7b14317a79dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Project/CHATGPT - Springboot and java backend 1.md",
+                "file": "Alex/Justification.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35f8e2e0f650c380",
+            "id": "0abc727cbee101b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +78,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7063e21ae9d8cda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4753714ace0825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8088909babf84d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Project/Project Breakdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "322f3c141673667b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c81410ac939f78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "Alex/Justification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
+                "file": "Alex/Justification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirushan/Kirushan's brief overview of the project.md"
+                "file": "Alex/Justification.md"
               }
             }
           }
@@ -206,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,46 +266,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f8e2e0f650c380",
+  "active": "322f3c141673667b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "_Project/Project Breakdown.md",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "Alex/Justification.md",
+    "Alex/feasibility study.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "Sathyan/sustainability.md",
     "_Project/CHATGPT - Springboot and java backend 1.md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "Pasted image 20231118194639.png",
     "Pasted image 20231118193704.png",
-    "Pasted image 20231116162328.png",
-    "CHATGPT - Springboot and java backend.md",
-    "_Project/Project Plan.md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
-    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
+    "conflict-files-obsidian-git.md",
     "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
     "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
     "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "_Project/Object Analysis Notes (2023-10-31) 1.md",
-    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "Sathyan/sustainability.md",
-    "_Project/Project Breakdown.md",
-    "_Project",
+    "_Project/Project Plan.md",
     "Pasted image 20231116162409.png",
-    "KHABSTimetable",
-    "Benas/Week 7 Lecture.md",
-    "Alex/feasibility study.md",
-    "Kirushan/Untitled.md",
-    "Kirushan",
-    "Sathyan",
-    "Alex/Justification.md",
-    "Alex",
-    "_Project/Literature Review Paragraphs",
+    "Pasted image 20231116162328.png",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Harrison/Team Members.md",
+    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+    "_Project/Object Analysis Notes (2023-10-31) 1.md",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "Benas/Work Breakdown Structure.md",
+    "Benas/Week 7 Lecture.md",
+    "Benas/Project Management Research.md",
+    "Benas/PMBOK Guide.md",
+    "_Project/Literature Review Paragraphs",
+    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "_Project",
+    "KHABSTimetable",
+    "Sathyan",
+    "Kirushan",
+    "Alex",
+    "Harrison/Literature Review Paragraphs",
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation",
-    "Harrison/Tasks",
-    "Harrison"
+    "Harrison/Tasks"
   ]
 }
