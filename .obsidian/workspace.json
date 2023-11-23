@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+                "file": "Alex/Justification.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+                "file": "Alex/Justification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+                "file": "Alex/Justification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md"
+                "file": "Alex/Justification.md"
               }
             }
           }
@@ -172,14 +172,16 @@
   },
   "active": "74105b73f3332ba9",
   "lastOpenFiles": [
-    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...) 1.md",
+    "Alex/feasibility study.md",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "_Project/CHATGPT - Springboot and java backend 1.md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...) 1.md",
     "conflict-files-obsidian-git.md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
-    "_Project/CHATGPT - Springboot and java backend 1.md",
     "Alex/Justification.md",
-    "Alex/feasibility study.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
     "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "Pasted image 20231118194639.png",
     "Pasted image 20231118193704.png",
@@ -188,7 +190,6 @@
     "_Project/Project Plan.md",
     "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
     "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
     "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
     "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
@@ -197,7 +198,6 @@
     "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
     "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
     "_Project/Object Analysis Notes (2023-10-31) 1.md",
-    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "Sathyan/sustainability.md",
     "_Project/Project Breakdown.md",
     "_Project",
