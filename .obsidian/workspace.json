@@ -92,19 +92,115 @@
             }
           },
           {
-            "id": "bf401adda349734a",
+            "id": "c04a8f534bca2d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e96958c89ae7078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2902fa4aeb7a16c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa6f63298dd732cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b2c26e266dbaa81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44612a0c5192c0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bc576154760919e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70f70b7db18dd731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Group meeting notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26e22f9504a16a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alex/Justification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -170,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Alex/Justification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Alex/Justification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Alex/Justification.md"
               }
             }
           }
@@ -231,14 +327,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf401adda349734a",
+  "active": "e26e22f9504a16a9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Alex/Group meeting notes.md",
+    "Alex/Justification.md",
     "Alex/feasibility study.md",
     "Benas/Group Meeting Notes.md",
-    "conflict-files-obsidian-git.md",
+    "Kirushan/Project Management.md",
     "Harrison/Team Members.md",
-    "Alex/Justification.md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
     "Benas/Week 7 Lecture.md"
   ]
