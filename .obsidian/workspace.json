@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8f6d9d58bbac81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alex/Justification.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alex/Justification.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alex/Justification.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -170,10 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3141bfa6822f673b",
+  "active": "f8f6d9d58bbac81f",
   "lastOpenFiles": [
-    "Kirushan/Project Management.md",
     "Alex/Justification.md",
+    "conflict-files-obsidian-git.md",
+    "Alex/Group meeting notes.md",
+    "Kirushan/Project Management.md",
     "Benas/Group Meeting Notes.md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "Kirushan/Kirushan's brief overview of the project.md",
@@ -187,7 +201,6 @@
     "Benas/Project Management Research.md",
     "Benas/Week 7 Lecture.md",
     "Benas/Work Breakdown Structure.md",
-    "conflict-files-obsidian-git.md",
     "_Project/CHATGPT - Springboot and java backend 1.md",
     "Pasted image 20231118194639.png",
     "Sathyan/sustainability.md",
@@ -202,7 +215,6 @@
     "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "_Project/Literature Review Paragraphs",
     "_Project/AHEP - Engineering Council Research for Presentation 1.md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27) 1.md",
     "_Project",
     "KHABSTimetable",
     "Kirushan",
