@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +27,9 @@
               "type": "markdown",
               "state": {
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "Alex/Group meeting notes.md",
+>>>>>>> b952e60155bafc388535c32ac7e034a14a9d8703
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +101,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Harrison/Group Meeting Notes - Harrison.md",
+=======
+                "file": "Alex/Group meeting notes.md",
+>>>>>>> b952e60155bafc388535c32ac7e034a14a9d8703
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Harrison/Group Meeting Notes - Harrison.md",
+=======
+                "file": "Alex/Group meeting notes.md",
+>>>>>>> b952e60155bafc388535c32ac7e034a14a9d8703
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Harrison/Group Meeting Notes - Harrison.md"
+=======
+                "file": "Alex/Group meeting notes.md"
+>>>>>>> b952e60155bafc388535c32ac7e034a14a9d8703
               }
             }
           }
@@ -160,6 +176,7 @@
   },
   "active": "83d2183a569334a8",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Harrison/Group Meeting Notes - Harrison.md",
     "_Project/CHATGPT - Springboot and java backend 1.md",
@@ -200,5 +217,17 @@
     "Harrison/Presentation",
     "Harrison/Tasks",
     "Harrison"
+=======
+    "Kirushan/Project Management.md",
+    "Benas/Group Meeting Notes.md",
+    "Alex/Group meeting notes.md",
+    "Alex/feasibility study.md",
+    "Alex/Justification.md",
+    "Sathyan/sustainability.md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Benas/Week 7 Lecture.md",
+    "Benas/Work Breakdown Structure.md"
+>>>>>>> b952e60155bafc388535c32ac7e034a14a9d8703
   ]
 }
