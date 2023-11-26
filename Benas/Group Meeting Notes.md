@@ -21,9 +21,9 @@ We intend to use a multi-disciplinary software development approach that consist
 
 ## Realistic Expectations
 
-While we aim to create the best product possible, there are some limitations once the scarcity of resources and time is considered. 
+While we aim to create the best product possible, there are some limitations once the scarcity of resources and time are considered. 
 
-One of the ways we accounted for this was to host the website and application locally rather than on a server, using GitHub Pages as our platform to distribute the solution.
+One of the ways we accounted for this was to host the website and application locally rather than on a server, using GitHub Pages as our platform to distribute the product.
 (Maybe more?)
 
 
@@ -35,6 +35,6 @@ One of the ways we accounted for this was to host the website and application lo
 
 
 Script:
-Out of the 20 options that were available, this project was one of the most appealing to us. One of the reasons is that it involves software development which is related to our interests and is something that the team is passionate about. On top of that, some team members already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the product. 
+Out of the twenty projects that were available to choose from, the timetabling generation system was one of the most appealing to us. The project completely focuses on software development, which is a shared interest across all team members. Furthermore, there are team members which already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the timetabling system. 
 
-By undertaking this task, it will help develop key software development skills such as project management which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know to a real life scenario and 
+By undertaking this task, we can develop key software and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know to a real life scenario and 
