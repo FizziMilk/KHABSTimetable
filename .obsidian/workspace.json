@@ -23,12 +23,8 @@
             "id": "950f2bd374369e22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Benas/Project/Project Breakdown.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -54,9 +50,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2c4cbe72817bb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benas/Work Breakdown Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1347959d965402e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sathyan/sustainability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e765c6adf1b04b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benas/Week 7 Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c620a97f9da9995b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sathyan/sustainability.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sathyan/sustainability.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -182,38 +226,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ba4cf36fe04e31d",
+  "active": "c620a97f9da9995b",
   "lastOpenFiles": [
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Benas/Week 7 Lecture.md",
+    "conflict-files-obsidian-git.md",
+    "Benas/Project Management Research.md",
+    "Benas/PMBOK Guide.md",
     "Sathyan/sustainability.md",
-    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
+    "Pasted image 20231116162328.png",
+    "Pasted image 20231116162409.png",
+    "Benas/Work Breakdown Structure.md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
+    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
+    "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "KHABSTimetable",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
+    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
+    "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
+    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
+    "_Project/Project Plan.md",
+    "_Project/Project Breakdown.md",
+    "_Project/Object Analysis Notes (2023-10-31) 1.md",
+    "_Project/Literature Review Paragraphs",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "_Project",
+    "Kirushan",
     "Sathyan",
     "Alex/Justification.md",
     "Alex/feasibility study.md",
     "Alex",
-    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-...).md",
     "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-..).md",
-    "Harrison/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
     "Harrison/Literature Review Paragraphs",
-    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
-    "Harrison/Tasks/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
-    "Benas/Work Breakdown Structure.md",
-    "Benas/Project Management Research.md",
-    "Benas/PMBOK Guide.md",
-    "conflict-files-obsidian-git.md",
-    "Benas/Project/Project Breakdown.md",
-    "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
-    "Pasted image 20231110181744.png.md",
     "Harrison/Meetings (Semester 1)",
     "Harrison/Presentation",
-    "Harrison/Tasks",
-    "Harrison/Team Members.md",
-    "Harrison",
-    "Benas"
+    "Harrison/Tasks"
   ]
 }
