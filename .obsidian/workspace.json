@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ceead2ae9a80b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benas/Group Meeting Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md"
+                "file": "Benas/Group Meeting Notes.md"
               }
             }
           }
@@ -146,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d223363fb601fe54",
+  "active": "1ceead2ae9a80b02",
   "lastOpenFiles": [
-    "Alex/Group meeting notes.md",
+    "Harrison/Group Meeting Notes - Harrison.md",
     "conflict-files-obsidian-git.md",
+    "Alex/Group meeting notes.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
     "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
-    "Harrison/Group Meeting Notes - Harrison.md",
     "Kirushan/Project Management.md",
     "Benas/Group Meeting Notes.md",
     "Alex/feasibility study.md",
