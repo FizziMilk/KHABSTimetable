@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md"
+                "file": "Benas/Group Meeting Notes.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "70f1c12433866e10",
   "lastOpenFiles": [
+    "Harrison/Group Meeting Notes - Harrison.md",
     "Alex/Group meeting notes.md",
     "Alex/Justification.md",
-    "Alex/feasibility study.md",
-    "Harrison/Group Meeting Notes - Harrison.md"
+    "Alex/feasibility study.md"
   ]
 }
