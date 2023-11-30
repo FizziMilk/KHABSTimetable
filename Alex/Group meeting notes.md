@@ -42,4 +42,4 @@ By undertaking this task, it will help develop key software development skills s
 
 Feasibility:
 
-The feasibility study takes into account multiple aspects of the project 
+- Ensuring the project can be completed successfully 

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "2d031d45999f4319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3141bfa6822f673b",
             "type": "leaf",
             "state": {
@@ -42,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f8f6d9d58bbac81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,12 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8f6d9d58bbac81f",
+  "active": "2d031d45999f4319",
   "lastOpenFiles": [
-    "Alex/Justification.md",
-    "conflict-files-obsidian-git.md",
-    "Alex/Group meeting notes.md",
     "Kirushan/Project Management.md",
+    "conflict-files-obsidian-git.md",
+    "Alex/Justification.md",
+    "Alex/Group meeting notes.md",
     "Benas/Group Meeting Notes.md",
     "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "Kirushan/Kirushan's brief overview of the project.md",
