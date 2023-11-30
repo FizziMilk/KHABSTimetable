@@ -118,7 +118,12 @@ Due to our intentions of keeping the project on a smaller scale, we chose SQLite
 
 In our project, we are aiming to design solutions  that meet a combination of societal, user, business and customer needs as appropriate , This will involve consideration of applicable health and safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards. ( page 29 ahep )
 
-We ensure that there is a balance of all of these within our project by scheduling appropriately and keeping the scope as intended. This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
+We ensure that there is a balance of all of these within our project by scheduling appropriately, keeping the scope as intended and creating software that requires little maintenance after deployment. 
+
+-- ben
+This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
+
+
 
 
 > Team Dynamics (effective team, stakeholder communication plan, how roles were assigned, task assignment)
