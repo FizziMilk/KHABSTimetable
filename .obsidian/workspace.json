@@ -71,8 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
 >>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
                 "file": "Harrison/Group Meeting Notes - Harrison.md",
+=======
+                "file": "Benas/Group Meeting Notes.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md"
+                "file": "Benas/Group Meeting Notes.md"
               }
             }
           }
@@ -271,6 +275,7 @@
 =======
   "active": "3d7b65dd7dd35508",
   "lastOpenFiles": [
+    "Harrison/Group Meeting Notes - Harrison.md",
     "_Project/CHATGPT - Springboot and java backend 1.md",
     "_Project/AHEP - Engineering Council Research for Presentation 1.md",
     "_Project/Project Plan.md",
@@ -281,7 +286,6 @@
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
     "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
-    "Harrison/Group Meeting Notes - Harrison.md",
     "Alex/Group meeting notes.md",
     "KHABSTimetable/PMBOK Guide.md",
     "KHABSTimetable/Project Management Research.md",

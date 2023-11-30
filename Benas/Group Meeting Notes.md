@@ -44,19 +44,21 @@ By undertaking this task, it will help develop key software development skills s
 
 # Project Management
 
-- Once the team and team member roles were established, we were able to move on to creating a project plan. 
+- Once the team and team member roles were established, we were able to move on to the next stage of our project plan.
 
-- As part of this, we undertook research into project management, relying on sources such as Engineers 2020 and the Project Management Body of Knowledge(PMBOK)
+- In this stage we undertook research into project management, relying on sources such as Engineers 2020 and the Project Management Body of Knowledge(PMBOK)
 
-The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively.
+The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively. (PMBOK)
 
 The book emphasizes that every project is bound by constraints, known as the "triple constraint" or "iron triangle," which includes scope, schedule, and cost. Managing these constraints is essential for project success.
 
 ## WBS
 
-In the context of this project, cost is mostly non-applicable, therefore, we've focused on the other two parts excessively. By creating a work breakdown structure we were able to solidify the scope of the project, ensuring that the deliverables and tasks are known from an early stage. 
+In the context of this project, cost is mostly non-applicable, therefore, we've focused on the other two parts excessively, scope and schedule. By creating a work breakdown structure we were able to solidify the scope of the project, ensuring that the deliverables and tasks are known from an early stage. 
 
 The work breakdown structure is created by examining the required parts of a product, breaking those parts down into the work packages required to create them, and establishing the order in which those work packages need to be delivered. 
+
+> **Explain each part of the work breakdown structure briefly**
 
 ## Gantt Chart 
 
@@ -64,7 +66,11 @@ Once the WBS was finalized, it allowed us to create a Gantt Chart to address the
 While creating the Gantt Chart, it is useful to consider what we know about risk management, dividing available time to ensure that the product is delivered on time, while allocating the appropriate amount of time to each task to ensure that any dependables are ready when they are needed. 
 
 
+## Risk Management
 
 
->A breakdown of all work packages required which accurately specifies what is required to complete the product
->>>>>>> origin/main
+## Quality Management
+
+
+
+
