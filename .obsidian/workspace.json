@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "4e659d1343d2641f",
+    "id": "ec5526c65c97154b",
     "type": "split",
     "children": [
       {
-        "id": "b8f217a3a6254da4",
+        "id": "3c74170da2547d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "1215e2c168859a37",
+            "id": "70f1c12433866e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kirushan/Project Management.md",
+                "file": "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7df341bf3903c9de",
+            "id": "5fc7b4db3b8526b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3fb2bc38c834f98e",
+    "id": "35c22b86cad47e9a",
     "type": "split",
     "children": [
       {
-        "id": "657b5a89fd7e8473",
+        "id": "4b3e221111dc8a83",
         "type": "tabs",
         "children": [
           {
-            "id": "9b637179c2d9fe49",
+            "id": "21ec1b69305bd1b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "7c913b7c8eb86fb8",
+            "id": "5082079990876144",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "ac94fe277bb274e8",
+            "id": "75a82e56e566e23d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "85eb3dfc93c577d1",
+    "id": "de9acc2cfed0897f",
     "type": "split",
     "children": [
       {
-        "id": "051e04681d7b212a",
+        "id": "23822813edc8a6f1",
         "type": "tabs",
         "children": [
           {
-            "id": "701efe1998968a30",
+            "id": "a8d8a46d4d89b028",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,19 @@
             }
           },
           {
-            "id": "dcf66383f168388e",
+            "id": "fa3572a35d6ef368",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b1c27e7f6d3217bd",
+            "id": "a613738a75b72d64",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +133,12 @@
             }
           },
           {
-            "id": "e753d32518e8af37",
+            "id": "f1c851f66fccfa4f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Harrison/Group Meeting Notes - Harrison.md"
               }
             }
           }
@@ -159,11 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7df341bf3903c9de",
+  "active": "5fc7b4db3b8526b3",
   "lastOpenFiles": [
+    "Harrison/Object Analysis Notes (2023-10-31) 1.md",
+    "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
+    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
+    "Harrison/Meetings (Semester 1)/7th Meeting - (2023-11-30).md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "Kirushan/Project Management.md",
     "Kirushan/Kirushan's brief overview of the project.md",
-    "Sathyan/sustainability.md",
-    "conflict-files-obsidian-git.md"
+    "Harrison/Group Meeting Notes - Harrison.md",
+    "Harrison/Team Members.md",
+    "Benas/Group Meeting Notes.md",
+    "Alex/Group meeting notes.md",
+    "Alex/Justification.md",
+    "Alex/feasibility study.md"
   ]
 }
