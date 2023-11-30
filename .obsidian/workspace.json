@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "e02182d77338acd0",
+    "id": "4e659d1343d2641f",
     "type": "split",
     "children": [
       {
-        "id": "3c71dfae2265a21c",
+        "id": "b8f217a3a6254da4",
         "type": "tabs",
         "children": [
           {
-            "id": "a034de263a85ded7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc0017b48ce8794",
+            "id": "1215e2c168859a37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +20,7 @@
             }
           },
           {
-            "id": "2d031d45999f4319",
+            "id": "7df341bf3903c9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,35 +30,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3141bfa6822f673b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alex/Justification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "29a4fe1c3ab64432",
+    "id": "3fb2bc38c834f98e",
     "type": "split",
     "children": [
       {
-        "id": "37054d9a06f23980",
+        "id": "657b5a89fd7e8473",
         "type": "tabs",
         "children": [
           {
-            "id": "bcb848e6f665f3c7",
+            "id": "9b637179c2d9fe49",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +56,7 @@
             }
           },
           {
-            "id": "95dffacd005118c7",
+            "id": "7c913b7c8eb86fb8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +71,7 @@
             }
           },
           {
-            "id": "5e10ac43331c5a3f",
+            "id": "ac94fe277bb274e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,15 +85,15 @@
     "width": 300
   },
   "right": {
-    "id": "0d99fde6100d175a",
+    "id": "85eb3dfc93c577d1",
     "type": "split",
     "children": [
       {
-        "id": "011f2f1a686d11a4",
+        "id": "051e04681d7b212a",
         "type": "tabs",
         "children": [
           {
-            "id": "50321e687de763f7",
+            "id": "701efe1998968a30",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -134,7 +110,7 @@
             }
           },
           {
-            "id": "0233717e1827c2be",
+            "id": "dcf66383f168388e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -146,7 +122,7 @@
             }
           },
           {
-            "id": "2bad28251cd91815",
+            "id": "b1c27e7f6d3217bd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,7 +133,7 @@
             }
           },
           {
-            "id": "dcaef622bd99b128",
+            "id": "e753d32518e8af37",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -170,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,47 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d031d45999f4319",
+  "active": "7df341bf3903c9de",
   "lastOpenFiles": [
     "Kirushan/Project Management.md",
-    "conflict-files-obsidian-git.md",
-    "Alex/Justification.md",
-    "Alex/Group meeting notes.md",
-    "Benas/Group Meeting Notes.md",
-    "Harrison/Meetings (Semester 1)/4th Meeting (2023-11-11).md",
     "Kirushan/Kirushan's brief overview of the project.md",
-    "Harrison/Meetings (Semester 1)/3rd Meeting (2023-11-09).md",
-    "Harrison/Meetings (Semester 1)/2nd Meeting (2023-11-08).md",
-    "Harrison/Meetings (Semester 1)/1st Meeting (2023-10-30).md",
-    "Pasted image 20231116162328.png",
-    "Pasted image 20231118193704.png",
-    "Pasted image 20231116162409.png",
-    "Benas/PMBOK Guide.md",
-    "Benas/Project Management Research.md",
-    "Benas/Week 7 Lecture.md",
-    "Benas/Work Breakdown Structure.md",
-    "_Project/CHATGPT - Springboot and java backend 1.md",
-    "Pasted image 20231118194639.png",
     "Sathyan/sustainability.md",
-    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
-    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
-    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "_Project/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15).md",
-    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "_Project/Object Analysis Notes (2023-10-31) 1.md",
-    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "_Project/Literature Review Paragraphs",
-    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
-    "_Project",
-    "KHABSTimetable",
-    "Kirushan",
-    "Sathyan",
-    "Alex",
-    "Harrison/Literature Review Paragraphs",
-    "Harrison/Meetings (Semester 1)",
-    "Harrison/Presentation",
-    "Harrison/Tasks"
+    "conflict-files-obsidian-git.md"
   ]
 }

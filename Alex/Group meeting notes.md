@@ -43,3 +43,7 @@ By undertaking this task, it will help develop key software development skills s
 Feasibility:
 
 - Ensuring the project can be completed successfully 
+- takes into account factors such as cost and skillset of the team
+- analysis of the chosen programming language
+
+Feasibility study is an important aspect of project planning and design. This is done in order to ensure successful delivery and making sure specific deadlines can be met without any difficulties. We took certain factors into account such as development cost and any additional costs for maintenance. We also assessed the collective skillset of the team before proceeding with our implementation. The chosen programming language has also been analysed. This was done through extensive research and group discussions. The focus was primarily on cost, efficiency, security and energy consumption.
