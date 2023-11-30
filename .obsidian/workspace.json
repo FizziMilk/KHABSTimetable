@@ -1,6 +1,5 @@
 {
   "main": {
-<<<<<<< HEAD
     "id": "ec5526c65c97154b",
     "type": "split",
     "children": [
@@ -10,51 +9,18 @@
         "children": [
           {
             "id": "70f1c12433866e10",
-=======
-    "id": "e02182d77338acd0",
-    "type": "split",
-    "children": [
-      {
-        "id": "6d496add6602761d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "71718cc2e459bb5e",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
-=======
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
             "id": "5fc7b4db3b8526b3",
-=======
-            "id": "950f2bd374369e22",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-=======
-                "file": "Kirushan/Kirushan's brief overview of the project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e74f58e7bce90e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,28 +30,14 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3d7b65dd7dd35508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
     "id": "35c22b86cad47e9a",
     "type": "split",
     "children": [
@@ -95,17 +47,6 @@
         "children": [
           {
             "id": "21ec1b69305bd1b1",
-=======
-    "id": "29a4fe1c3ab64432",
-    "type": "split",
-    "children": [
-      {
-        "id": "37054d9a06f23980",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bcb848e6f665f3c7",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -115,11 +56,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "5082079990876144",
-=======
-            "id": "95dffacd005118c7",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "search",
@@ -134,11 +71,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "75a82e56e566e23d",
-=======
-            "id": "5e10ac43331c5a3f",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -149,10 +82,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-<<<<<<< HEAD
     "id": "de9acc2cfed0897f",
     "type": "split",
     "children": [
@@ -162,22 +94,11 @@
         "children": [
           {
             "id": "a8d8a46d4d89b028",
-=======
-    "id": "0d99fde6100d175a",
-    "type": "split",
-    "children": [
-      {
-        "id": "011f2f1a686d11a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "50321e687de763f7",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,27 +110,19 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "fa3572a35d6ef368",
-=======
-            "id": "0233717e1827c2be",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
             "id": "a613738a75b72d64",
-=======
-            "id": "2bad28251cd91815",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -220,16 +133,12 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "f1c851f66fccfa4f",
-=======
-            "id": "dcaef622bd99b128",
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harrison/Group Meeting Notes - Harrison.md"
+                "file": "Benas/Group Meeting Notes.md"
               }
             }
           }
@@ -250,9 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
   "active": "5fc7b4db3b8526b3",
   "lastOpenFiles": [
+    "Harrison/Group Meeting Notes - Harrison.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
     "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
@@ -262,55 +171,10 @@
     "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
     "Kirushan/Project Management.md",
     "Kirushan/Kirushan's brief overview of the project.md",
-    "Harrison/Group Meeting Notes - Harrison.md",
     "Harrison/Team Members.md",
     "Benas/Group Meeting Notes.md",
     "Alex/Group meeting notes.md",
     "Alex/Justification.md",
     "Alex/feasibility study.md"
-=======
-  "active": "3d7b65dd7dd35508",
-  "lastOpenFiles": [
-    "_Project/CHATGPT - Springboot and java backend 1.md",
-    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
-    "_Project/Project Plan.md",
-    "Benas/Group Meeting Notes.md",
-    "Benas/PMBOK Guide.md",
-    "Benas/Work Breakdown Structure.md",
-    "Benas/Project Management Research.md",
-    "Harrison/Object Analysis Notes (2023-10-31) 1.md",
-    "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
-    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
-    "Harrison/Group Meeting Notes - Harrison.md",
-    "Alex/Group meeting notes.md",
-    "KHABSTimetable/PMBOK Guide.md",
-    "KHABSTimetable/Project Management Research.md",
-    "KHABSTimetable/Engineers 2020.md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
-    "conflict-files-obsidian-git.md",
-    "Alex/Justification.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "_Project/Project Breakdown.md",
-    "_Project/Object Analysis Notes (2023-10-31) 1.md",
-    "_Project/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15).md",
-    "_Project/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15).md",
-    "KHABSTimetable/Work Breakdown Structure.md",
-    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
-    "Alex/feasibility study.md",
-    "Pasted image 20231118194639.png",
-    "KHABSTimetable/Project/Gantt Chart.xlsx",
-    "Pasted image 20231118193704.png",
-    "_Project/Literature Review Paragraphs",
-    "New Text Document.txt",
-    "_Project",
-    "Pasted image 20231116162409.png",
-    "Pasted image 20231116162328.png",
-    "Kirushan",
-    "Sathyan",
-    "Alex",
-    "Harrison/Literature Review Paragraphs",
-    "Harrison/Meetings (Semester 1)",
-    "Harrison/Presentation"
->>>>>>> 6332a4931cdbd8e618d057009125f8cf33b34d7b
   ]
 }
