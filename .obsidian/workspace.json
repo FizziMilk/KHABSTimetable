@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37593c5f5379a21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Group Meeting Notes.md"
+                "file": "Harrison/Group Meeting Notes - Harrison.md"
               }
             }
           }
@@ -159,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc7b4db3b8526b3",
+  "active": "37593c5f5379a21a",
   "lastOpenFiles": [
+    "Benas/Group Meeting Notes.md",
     "Harrison/Group Meeting Notes - Harrison.md",
+    "conflict-files-obsidian-git.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
     "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
@@ -172,7 +186,6 @@
     "Kirushan/Project Management.md",
     "Kirushan/Kirushan's brief overview of the project.md",
     "Harrison/Team Members.md",
-    "Benas/Group Meeting Notes.md",
     "Alex/Group meeting notes.md",
     "Alex/Justification.md",
     "Alex/feasibility study.md"
