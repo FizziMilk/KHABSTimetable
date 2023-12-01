@@ -81,7 +81,6 @@ Then there are the **Economical & Environmental:** factors:
 
 * seeing how this project is software-based, there should be very little to no cost for development except for time, considering that we are not using professional servers as indicated in the "realistic expectations" section.
 
-
 The project must comply with the third factor, the **Law**
 
 -        For example, the data protection act (Sharma, 2023) must be considered amongst other important laws.
@@ -116,10 +115,12 @@ After considering our brief and resources, we decided that the project should be
 
 Due to our intentions of keeping the project on a smaller scale, we chose SQLite as our datebase, which doesn't require the use of a server host.
 
+All this is done with the knowledge that as engineers, we must strive to  Select and apply appropriate materials, equipment, engineering technologies and processes (Ahep B13)
+
 
 -- SUSTAINABILITY -- 
 
-In our project, we are aiming to design solutions  that meet a combination of societal, user, business and customer needs as appropriate , This will involve consideration of applicable health and safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards. ( page 29 ahep )
+In our project, we are aiming to design solutions  that meet a combination of societal, user, business and customer needs as appropriate , This will involve consideration of applicable health and safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards. ( page 29 ahep B5)
 
 We ensure that there is a balance of all of these within our project by scheduling appropriately, keeping the scope as intended and creating software that requires little maintenance after deployment. 
 
@@ -131,54 +132,59 @@ We ensure that there is a balance of all of these within our project by scheduli
 
 To establish our team, we already had four strong members at the beginning of this project. We then scouted for a fifth member, who we eventually recruited.
 
-To ensure that the team is managed to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. (show Benas' cock on slide?)
+To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. (show Benas' cock on slide?)
 
  Roles and deliverables were given out based on strengths and weaknesses, and the whole decision-making process was done as a team, rather than one individual being responsible for planning everything. (look at the table on presentation)
 
 The team has consistent meetings to ensure there is open communication between stakeholders, and that deadlines are being met effectively. A team communication leader was appointed to help with this purpose.
 
-All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team.
+All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team. All of this reinforces the notion that as engineers in a team environment we strive to function effectively as individuals, and as members or leaders of the team. (Ahep B16)
 (go through each of the team members)
 
-Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project.
+Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project. 
 
 ## References
 
-The skills the team members learn from this are essential to be an engineer, such as:
+The skills the team members learn from this are essential to be an engineer, such as: USED DENOTED WITH **
 
 page 28 ahep
 B4. Select and evaluate technical literature and other sources of information to address highlighted problems.
 
-page 29 ahep
+page 29 ahep ** 
 B5. Design solutions  that meet a combination of societal, user, business and customer needs as appropriate.
 
 page 30 ahep
 B9. Use a risk management process to identify, evaluate and mitigate risks
 
-page 31 ahep
+page 31 ahep ** 
 B13. Select and apply appropriate materials, equipment, engineering technologies and processes
 
 page 31 ahep
 B14. Recognise the need for quality management systems and continuous improvement.
 
-page 31 ahep
+page 31 ahep ** 
 B15. Apply knowledge of engineering management principles, commercial context, project management and relevant legal matters.
 
-page 31 ahep
+page 31 ahep ** 
 B16. Function effectively as an individual, and as a member or leader of a team
 
-page 31 ahep
+page 31 ahep ** 
 B17. Communicate effectively with technical and non-technical audiences.
+
+Project Management Body of Knowledge Fourth Edition, Project Management Institute, 2008 p6, p189 
 
 # Project Management
 
 - Once the team and team member roles were established, we were able to move on to the next stage of our project plan.
 
-- In this stage we undertook research into project management, relying on sources such as Engineers 2020 and the Project Management Body of Knowledge(PMBOK)
+- In this stage we undertook research into project management, relying on sources such as Engineers 2020 and the Project Management Body of Knowledge(PMBOK) 
 
-The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively. (PMBOK)
+The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively. (Project Management Institute, 2008, p6)
 
-The book emphasizes that every project is bound by constraints, known as the "triple constraint" or "iron triangle," which includes scope, schedule, and cost. Managing these constraints is essential for project success.
+The book emphasizes that every project is bound by constraints, which includes but are not limited scope, schedule, and cost. Managing these constraints is essential for project success. (Project Management Institute, 2008, p6)
+
+_Top 5 software metrics to manage development projects effectively_ (2019) _Sealights_. Available at: https://www.sealights.io/software-development-metrics/top-5-software-metrics-to-manage-development-projects-effectively/ (Accessed: 01 December 2023).
+
 
 ## WBS
 
@@ -188,12 +194,14 @@ The work breakdown structure is created by examining the required parts of a pro
 
 > **Explain each part of the work breakdown structure briefly**
 
-Here we can see the work breakdown structure that was created for this project. 
+Here we can see the work breakdown structure that was created for this project. The blocks in white denote the major deliverables that are necessary for the completion of the Timetable System. The blocks in green beneath the first level show the breakdown of the work required for that deliverable to be completed. While it is possible to break those blocks down further into third level work-packages, it was deemed to be too technical for this initial project planning presentation and thus omitted. 
+
+An additional benefit of the Work Breakdown Structure is that it is a visual form of describing the work required to complete a product, without needing to delve into the technical details, which helps to >Communicate effectively with technical and non-technical audiences. (ahep B17)
 
 ## Gantt Chart 
 
-Once the WBS was finalized, it allowed us to create a Gantt Chart to address the scheduling part of the project. 
-While creating the Gantt Chart, it is useful to consider what we know about risk management, dividing available time to ensure that the product is delivered on time, while allocating the appropriate amount of time to each task to ensure that any dependables are ready when they are needed. 
+Once the WBS was finalized, it allowed us to create a Gantt Chart to address the scheduling part of the project and solidify the order in which the tasks must be carried out. 
+While creating the Gantt Chart, it is useful to consider what we know about risk management, dividing available time to ensure that the product is delivered on time, while allocating the appropriate amount of time to each task to ensure that any dependables are ready when they are needed. Failure to consider and account for these risks may cause knock-on delays in completing future tasks on time, to the detriment of the final product. 
 
 
 ## Ethical Considerations
@@ -204,6 +212,31 @@ This considers that every member of the team will not have an unrealistic worklo
 
 
 ## Quality Management
+
+The PMBOK identifies the main processes of effective project quality management as 
+- Creating a quality plan which will identify the quality requirements of the project, and documenting how the project will demonstrate compliance
+- Performing quality assurance, which is the process of auditing the quality plan to ensure appropriate quality standards are maintained
+- Performing Quality Control, the process of monitoring and recording results of executing the quality activities to assess performance nd recommend necessary changes.  (Project Management Institute, 2008, p189)
+
+
+While there are many quality metrics that can be considered when it comes to software development, we have decided to focus on 4 main aspects that we believe are relevant for the creation of our quality plan.  
+
+Reliability, Performance, User Experience, Maintainability and code quality.
+(Sealights,2019)
+
+We distilled each of these criteria into quantifiable metrics which will be used throughout the duration of the project to ensure that the quality of the final product is of a high quality.
+
+Reliability: Average Failure Rate 
+Performance: Time to Output, Stress Testing
+User Experience: Average time for user output
+Maintainability and code Quality: Code Complexity, Lines of Code, Static Code analysis 
+
+As noted in the PMBOK guide, these criteria are only introductory and will be implemented, monitored, audited, and changed to fit the growing quality standards and needs of the project. 
+
+
+
+
+
 
 
 
