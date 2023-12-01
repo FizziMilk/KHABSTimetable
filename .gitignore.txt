@@ -1,2 +1,2 @@
 #exclude workspace cache
-.obsidian/workspace
+.obsidian/workspace.json

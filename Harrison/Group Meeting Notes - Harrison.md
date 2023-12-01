@@ -18,8 +18,8 @@ We intend to use a multi-disciplinary software development approach that consist
 - Database Configuration which will allow us to store information about the classrooms, modules and their required contact hours and lecturers. 
 - and finally A suitable software architecture to implement the required algorithm and connect the aforementioned parts/points of the program. 
 
-
-## Realistic Expectations & Limitations
+## JUSTIFICATION:
+## Realistic Expectations & Limitations (Option Analysis/Technical Solution Options)
 
 While we aim to create the best product possible, there are some limitations once the scarcity of resources and time are considered. 
 
@@ -32,7 +32,7 @@ This approach gives insight on how we want to tackle the project, and defines th
 An example of such a limitation is how the timetabling system will be hosted and provided to clients. In an ideal scenario, we would want to push the system to a professional server and develop it on a larger scale. However, this would involve larger costs and time, especially if the product was used constantly. For this reason, we are accounting for this by simply hosting the system locally using a platform like GitHub Pages (where websites can be seen by those with permission).
 
 
-# Justification
+### Why we chose this (justification)
 
 - Involves software and web development therefore it relates to the interests and background experiences of the group.
 - It will develop key technical skills which will be beneficial for the future.
@@ -42,20 +42,20 @@ An example of such a limitation is how the timetabling system will be hosted and
 Script:
 
 
-(justification page)
+(justification page) - Needs Lines
 To justify the team's choice of project, we considered each team members skills and interests. We also considered the prospects and impact that the project would have for us and for the possible stakeholders and clients.
 
-(earth)
+(earth) Needs lines?
 Out of the twenty projects that were available to choose from, the timetabling generation system was one of the most appealing to us. The project heavily focuses on software development, which is a shared interest across all team members. Furthermore, there are members which already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the timetabling system. 
 
-(what it means)
+(what it means) Title and lines unrelated?
 By undertaking this task, we can develop key software engineering and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know, proving that as a team, we are capable of pursuing more complicated projects and challenges, applying new knowledge of engineering management principles, commercial context, project management and relevant legal matters [page 31 ahep]
 
 
 
 # Idea Development
 
-(intro)
+(intro) 
 To develop the product, multiple stages of idea development are crucial to understand which tools, components and limitations are involved in developing the timetabling system. The information obtained comes from idea development techniques derived from evidence-based reasoning, research and of course, the brief criteria provided by our supervisor, as well as every team members' invaluable personal experience with programming concepts and/or project management skills.
 
 
@@ -120,8 +120,6 @@ In our project, we are aiming to design solutions  that meet a combination of so
 
 We ensure that there is a balance of all of these within our project by scheduling appropriately, keeping the scope as intended and creating software that requires little maintenance after deployment. 
 
--- ben
-This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
 
 
 
