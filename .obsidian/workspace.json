@@ -146,49 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "3ba3a2ae2e5540e2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "171e3f1b2ba99402",
-        "type": "window",
-        "children": [
-          {
-            "id": "79f0484612b3627e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dae352f889fc0deb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Benas/Group Meeting Notes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 344,
-        "y": 24,
-        "width": 616,
-        "height": 1112,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "62f22b5d33e2c58b",
   "lastOpenFiles": [
-    "Harrison/Group Meeting Notes - Harrison.md",
-    "Benas/Group Meeting Notes.md",
-    "Benas/Project Management Research.md",
     "_Project/Project Plan.md",
+    "Benas/Group Meeting Notes.md",
+    "Pasted image 20231201104854.png",
+    "Harrison/Group Meeting Notes - Harrison.md",
+    "Benas/Project Management Research.md",
     "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
     "Benas/Work Breakdown Structure.md",
     "conflict-files-obsidian-git.md",

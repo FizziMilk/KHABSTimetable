@@ -131,7 +131,7 @@ We ensure that there is a balance of all of these within our project by scheduli
 
 To establish our team, we already had four strong members at the beginning of this project. We then scouted for a fifth member, who we eventually recruited.
 
-To ensure that the team is managed to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. (show Benas on slide?)
+To ensure that the team is managed to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. (show Benas' cock on slide?)
 
  Roles and deliverables were given out based on strengths and weaknesses, and the whole decision-making process was done as a team, rather than one individual being responsible for planning everything. (look at the table on presentation)
 
@@ -140,12 +140,9 @@ The team has consistent meetings to ensure there is open communication between s
 All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team.
 (go through each of the team members)
 
-
-
 Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project.
 
-- What project and quality management are (ben section)
-
+## References
 
 The skills the team members learn from this are essential to be an engineer, such as:
 
@@ -190,6 +187,8 @@ In the context of this project, cost is mostly non-applicable, therefore, we've 
 The work breakdown structure is created by examining the required parts of a product, breaking those parts down into the work packages required to create them, and establishing the order in which those work packages need to be delivered. 
 
 > **Explain each part of the work breakdown structure briefly**
+
+Here we can see the work breakdown structure that was created for this project. 
 
 ## Gantt Chart 
 
