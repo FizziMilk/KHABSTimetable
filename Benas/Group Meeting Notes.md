@@ -66,6 +66,11 @@ Once the WBS was finalized, it allowed us to create a Gantt Chart to address the
 While creating the Gantt Chart, it is useful to consider what we know about risk management, dividing available time to ensure that the product is delivered on time, while allocating the appropriate amount of time to each task to ensure that any dependables are ready when they are needed. 
 
 
+## Ethical Considerations
+
+Realistic Workloads
+
+
 ## Risk Management
 
 
