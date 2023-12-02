@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Kirushan/Project Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6297ef45cb9b715b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Group Meeting Notes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1215e2c168859a37",
+  "active": "6297ef45cb9b715b",
   "lastOpenFiles": [
     "Kirushan/Project Management.md",
+    "conflict-files-obsidian-git.md",
+    "Benas/Group Meeting Notes.md",
     "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
-    "conflict-files-obsidian-git.md",
     "Kirushan/Kirushan's brief overview of the project.md",
     "Sathyan/sustainability.md"
   ]
