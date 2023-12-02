@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alex/Group meeting notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alex/Group meeting notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alex/Group meeting notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alex/Group meeting notes.md"
+                "file": "Harrison/Group Meeting Notes - Harrison.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "1ceead2ae9a80b02",
   "lastOpenFiles": [
-    "Benas/Group Meeting Notes.md",
-    "Harrison/Group Meeting Notes - Harrison.md",
-    "conflict-files-obsidian-git.md",
     "Alex/Group meeting notes.md",
+    "Harrison/Group Meeting Notes - Harrison.md",
+    "Benas/Group Meeting Notes.md",
+    "conflict-files-obsidian-git.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
     "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
