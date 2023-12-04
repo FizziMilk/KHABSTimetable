@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alex/Group meeting notes.md",
+                "file": "Kirushan/Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alex/Group meeting notes.md",
+                "file": "Kirushan/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alex/Group meeting notes.md",
+                "file": "Kirushan/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alex/Group meeting notes.md"
+                "file": "Kirushan/Project Management.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "b75087442a57bbfb",
   "lastOpenFiles": [
+    "Alex/Group meeting notes.md",
     "Benas/Group Meeting Notes.md",
     "Benas/Work Breakdown Structure.md",
     "Kirushan/Project Management.md",
@@ -195,7 +196,6 @@
     "Harrison/Group Meeting Notes - Harrison.md",
     "Pasted image 20231201104854.png",
     "Harrison/Meetings (Semester 1)/7th Meeting - (2023-11-30).md",
-    "Alex/Group meeting notes.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
     "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
     "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
