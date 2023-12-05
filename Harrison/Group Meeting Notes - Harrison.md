@@ -140,6 +140,9 @@ All of this was made possible by the open-minded individuals in our team who und
 (go through each of the team members)
 
 
+-- ADD STATE GATE REVIEW MEETINGS REQUIREMENT AND USE --
+
+
 
 Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project.
 
