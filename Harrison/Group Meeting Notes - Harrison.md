@@ -23,9 +23,14 @@ We intend to use a multi-disciplinary software development approach that consist
 
 While we aim to create the best product possible, there are some limitations once the scarcity of resources and time are considered. 
 
-An example of such a limitation is how the timetabling system will be hosted and provided to clients. In an ideal scenario, we would want to push the system to a professional server and develop it on a larger scale. However, this would involve larger costs and time, especially if the product was used constantly. For this reason, we are accounting for this by simply hosting the system locally using a platform like GitHub Pages (where websites can be seen by those with permission) which is free.
+An example of such a limitation is how the timetabling system will be hosted and provided to clients. In an ideal scenario, we would want to push the system to a professional server and develop it on a larger scale, but we have limited scalability due to the lack of resources for our project. This means that the project will remain specialised for smaller workloads.
 
 This approach gives insight on how we want to tackle the project, and defines the effort involved in what we are trying to achieve.
+
+
+*** reference
+An example of such a limitation is how the timetabling system will be hosted and provided to clients. In an ideal scenario, we would want to push the system to a professional server and develop it on a larger scale. However, this would involve larger costs and time, especially if the product was used constantly. For this reason, we are accounting for this by simply hosting the system locally using a platform like GitHub Pages (where websites can be seen by those with permission).
+
 
 # Justification
 
@@ -44,7 +49,8 @@ To justify the team's choice of project, we considered each team members skills 
 Out of the twenty projects that were available to choose from, the timetabling generation system was one of the most appealing to us. The project heavily focuses on software development, which is a shared interest across all team members. Furthermore, there are members which already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the timetabling system. 
 
 (what it means)
-By undertaking this task, we can develop key software and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know, proving that as a team, we are capable of pursuing more complicated projects and challenges. [insert possible references in this paragraph to a)    Why these are essential skills for an engineer, relating your arguments back to appropriate Learning Outcomes in Engineering Council, 2020; and]
+By undertaking this task, we can develop key software engineering and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know, proving that as a team, we are capable of pursuing more complicated projects and challenges, applying new knowledge of engineering management principles, commercial context, project management and relevant legal matters [page 31 ahep]
+
 
 
 # Idea Development
@@ -86,32 +92,52 @@ Finally, **Scheduling:** is considered
 -        by Setting realistic deadlines and following them (Sharma, 2023) accordingly.
 
 
-After considering the feasibilities of the project, an option analysis can be conducted to determine what software tools and programming languages should be used in the creation of the timetabling generation system.
+After considering the feasibilities of the project, an option analysis can be conducted to determine how the project should be implemented, where we consider if:
 
-- Adhering to the brief, the timetabling generation system is object-oriented based and uses techniques such as composite design.
+
+* the project should be website or console based,
+* if the server should be hosted locally or externally,
+* and if the timetable should be manually or automatically generated
+
+After considering our brief and resources, we decided that the project should be shown on a website that is locally hosted and that the timetable is manually generated.
+
+-- TECHNICAL SOLUTIONS --
+
+- Adhering to the brief, the timetabling generation system is based on OOP and uses techniques such as composite design.
 
 * WE can choose either Python or Java as our main programming language for this purpose.
 
-* Considering that  We need to use tools that will empower the use of these object-oriented concepts and adhere to the brief as much as possible, Java is perfectly suited for this as it was built within OOP in mind. Java also supports something called Springboot which is a kind of software (called a framework) that streamlines the development process of applications, which will be incredibly useful for our project.
+* Considering that  We need to use tools that will empower the use of these object-oriented concepts and adhere to the brief as much as possible, Java is perfectly suited for this as it was built within OOP in mind. Java also supports something called Springboot which is a framework for software engineering that streamlines the development process of applications, which will be incredibly useful for our project.
 
 * The previous programming experience that our team has is also related to Java, and therefore we have a better advantage using it instead of Python.*
 
+Due to our intentions of keeping the project on a smaller scale, we chose SQLite as our datebase, which doesn't require the use of a server host.
 
-Finding a technical solution to the project involves merging everything together, such as the website, the timetable algorithm, the program structure, and the database. 
 
+-- SUSTAINABILITY -- 
+
+In our project, we are aiming to design solutions  that meet a combination of societal, user, business and customer needs as appropriate , This will involve consideration of applicable health and safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards. ( page 29 ahep )
+
+We ensure that there is a balance of all of these within our project by scheduling appropriately and keeping the scope as intended. This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
 
 
 > Team Dynamics (effective team, stakeholder communication plan, how roles were assigned, task assignment)
 
-To establish our team, we already had four strong members at the beginning of this project. We then scouted for a fifth member, who we eventually found.
+To establish our team, we already had four strong members at the beginning of this project. We then scouted for a fifth member, who we eventually recruited.
 
-To ensure that the team is managed to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member.
+To ensure that the team is managed to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. (show Benas on slide?)
 
- Roles and deliverables were given out based on strengths and weaknesses, and the whole decision-making process was done as a team, rather than one individual being responsible for planning everything.
+ Roles and deliverables were given out based on strengths and weaknesses, and the whole decision-making process was done as a team, rather than one individual being responsible for planning everything. (look at the table on presentation)
 
-The team has consistent meetings to ensure there is open communication between members, and that deadlines ares met effectively.
+The team has consistent meetings to ensure there is open communication between stakeholders, and that deadlines are being met effectively. A team communication leader was appointed to help with this purpose.
 
 All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team.
+(go through each of the team members)
+
+
+-- ADD STATE GATE REVIEW MEETINGS REQUIREMENT AND USE --
+
+
 
 Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project.
 

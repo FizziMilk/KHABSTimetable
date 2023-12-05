@@ -1,33 +1,41 @@
 
-# Introduction: 
+# INTRODUCTION: 
 
->In this presentation we will talk about the Timetable Generation System
->
- We will cover how we came together, chose our project, and collaborated to create a project plan,(maybe paragraph 2) using various project and team management techniques to develop an effective solution, following the criteria of the brief.
+In this presentation we will talk about the Timetable Generation System
+
+ We will cover how we came together, chose our project, and collaborated to create a project plan,(maybe paragraph 2) using various project and team management techniques to develop an effective solution, following the criteria of the brief provided to us by our supervisor.
 
 ## Project Aims and Identifying the challenge
+>Fully function Timetable
+
 The aim of the project is to develop a timetable generation system that ensures there is no overlap between timeslots in classrooms, and that every module delivers its required contact hours every week. 
 
 This requires the design of an algorithm that is capable of handling these issues while simultaneously providing smooth operation and intuitive user experience.
 
 ## How we want to address the problem:
+>Software Approach
 
 We intend to use a multi-disciplinary software development approach that consists of:
 
-- Website Development to provide the user with an easy to use interface to interact with the system. 
-- Database Configuration which will allow us to store information about the classrooms, modules, their required contact hours, and their respective lecturers. 
-- A suitable software architecture to implement the required algorithm and connect the aforementioned parts of the program. 
+- Website Development to provide the client with an interface to interact with the system. 
+- Database Configuration which will allow us to store information about the classrooms, modules and their required contact hours and lecturers. 
+- and finally A suitable software architecture to implement the required algorithm and connect the aforementioned parts/points of the program. 
 
-
-## Realistic Expectations
+# JUSTIFICATION:
+## Realistic Expectations & Limitations (Option Analysis/Technical Solution Options)
 
 While we aim to create the best product possible, there are some limitations once the scarcity of resources and time are considered. 
 
-One of the ways we accounted for this was to host the website and application locally rather than on a server, using GitHub Pages as our platform to distribute the product.
-(Maybe more?)
+An example of such a limitation is how the timetabling system will be hosted and provided to clients. In an ideal scenario, we would want to push the system to a professional server and develop it on a larger scale, but we have limited scalability due to the lack of resources for our project. This means that the project will remain specialised for smaller workloads.
+
+This approach gives insight on how we want to tackle the project, and defines the effort involved in what we are trying to achieve.
 
 
-# Justification
+*** reference
+An example of such a limitation is how the timetabling system will be hosted and provided to clients. In an ideal scenario, we would want to push the system to a professional server and develop it on a larger scale. However, this would involve larger costs and time, especially if the product was used constantly. For this reason, we are accounting for this by simply hosting the system locally using a platform like GitHub Pages (where websites can be seen by those with permission).
+
+
+### Why we chose this (justification)
 
 - Involves software and web development therefore it relates to the interests and background experiences of the group.
 - It will develop key technical skills which will be beneficial for the future.
@@ -35,36 +43,201 @@ One of the ways we accounted for this was to host the website and application lo
 
 
 Script:
-Out of the twenty projects that were available to choose from, the timetabling generation system was one of the most appealing to us. The project completely focuses on software development, which is a shared interest across all team members. Furthermore, there are team members which already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the timetabling system. 
 
-<<<<<<< HEAD
-By undertaking this task, we can develop key software and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know to a real life scenario and 
-=======
-By undertaking this task, it will help develop key software development skills such as project management which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know to a real life scenario and 
+
+(justification page) - Needs Lines
+To justify the team's choice of project, we considered each team members skills and interests. We also considered the prospects and impact that the project would have for us and for the possible stakeholders and clients.
+
+(earth) Needs lines?
+Out of the twenty projects that were available to choose from, the timetabling generation system was one of the most appealing to us. The project heavily focuses on software development, which is a shared interest across all team members. Furthermore, there are members which already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the timetabling system. 
+
+(what it means) Title and lines unrelated?
+By undertaking this task, we can develop key software engineering and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know, proving that as a team, we are capable of pursuing more complicated projects and challenges, applying new knowledge of engineering management principles, commercial context, project management and relevant legal matters [page 31 ahep]
+
+
+
+# Idea Development
+
+(intro) 
+To develop the product, multiple stages of idea development are crucial to understand which tools, components and limitations are involved in developing the timetabling system. The information obtained comes from idea development techniques derived from evidence-based reasoning, research and of course, the brief criteria provided by our supervisor, as well as every team members' invaluable personal experience with programming concepts and/or project management skills.
+
+
+(cards)
+Beginning with a well-defined feasibility study, multiple factors come into play. 
+
+
+The first being:**Technical:**
+
+-        Where an in depth Analysis of current resources was conducted (Sharma, 2023)
+
+-        and technical skills of the team as well as viability were examined (Sharma, 2023), so that specific roles could be assigned to each member, making the team as effective as possible.
+
+
+Then there are the **Economical & Environmental:** factors:
+
+-       which Focus on development cost (Sharma, 2023).
+
+-        and any additional expenses that come from maintenance and revision.
+
+* seeing how this project is software-based, there should be very little to no cost for development except for time, considering that we are not using professional servers as indicated in the "realistic expectations" section.
+
+The project must comply with the third factor, the **Law**
+
+-        For example, the data protection act (Sharma, 2023) must be considered amongst other important laws.
+
+The fourth includes **Operational:** factors
+
+-        which Focus on how to maintain successful operation of a system and what procedures should be implemented (Sharma, 2023) for that purpose,
+
+Finally, **Scheduling:** is considered
+
+-        by Setting realistic deadlines and following them (Sharma, 2023) accordingly.
+
+
+After considering the feasibilities of the project, an option analysis can be conducted to determine how the project should be implemented, where we consider if:
+
+
+* the project should be website or console based,
+* if the server should be hosted locally or externally,
+* and if the timetable should be manually or automatically generated
+
+After considering our brief and resources, we decided that the project should be shown on a website that is locally hosted and that the timetable is manually generated.
+
+-- TECHNICAL SOLUTIONS --
+
+- Adhering to the brief, the timetabling generation system is based on OOP and uses techniques such as composite design.
+
+* WE can choose either Python or Java as our main programming language for this purpose.
+
+* Considering that  We need to use tools that will empower the use of these object-oriented concepts and adhere to the brief as much as possible, Java is perfectly suited for this as it was built within OOP in mind. Java also supports something called Springboot which is a framework for software engineering that streamlines the development process of applications, which will be incredibly useful for our project.
+
+* The previous programming experience that our team has is also related to Java, and therefore we have a better advantage using it instead of Python.*
+
+Due to our intentions of keeping the project on a smaller scale, we chose SQLite as our datebase, which doesn't require the use of a server host.
+
+All this is done with the knowledge that as engineers, we must strive to  Select and apply appropriate materials, equipment, engineering technologies and processes (Ahep B13)
+
+
+-- SUSTAINABILITY -- 
+
+In our project, we are aiming to design solutions  that meet a combination of societal, user, business and customer needs as appropriate , This will involve consideration of applicable health and safety, diversity, inclusion, cultural, societal, environmental and commercial matters, codes of practice and industry standards. ( page 29 ahep B5)
+
+We ensure that there is a balance of all of these within our project by scheduling appropriately, keeping the scope as intended and creating software that requires little maintenance after deployment. 
+
+
+
+
+
+> Team Dynamics (effective team, stakeholder communication plan, how roles were assigned, task assignment)
+
+To establish our team, we already had four strong members at the beginning of this project. We then scouted for a fifth member, who we eventually recruited.
+
+To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. (show Benas' cock on slide?)
+
+ Roles and deliverables were given out based on strengths and weaknesses, and the whole decision-making process was done as a team, rather than one individual being responsible for planning everything. (look at the table on presentation)
+
+The team has consistent meetings to ensure there is open communication between stakeholders, and that deadlines are being met effectively. A team communication leader was appointed to help with this purpose.
+
+All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team. All of this reinforces the notion that as engineers in a team environment we strive to function effectively as individuals, and as members or leaders of the team. (Ahep B16)
+(go through each of the team members)
+
+Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project. 
+
+## References
+
+The skills the team members learn from this are essential to be an engineer, such as: USED DENOTED WITH **
+
+page 28 ahep
+B4. Select and evaluate technical literature and other sources of information to address highlighted problems.
+
+page 29 ahep ** 
+B5. Design solutions  that meet a combination of societal, user, business and customer needs as appropriate.
+
+page 30 ahep
+B9. Use a risk management process to identify, evaluate and mitigate risks
+
+page 31 ahep ** 
+B13. Select and apply appropriate materials, equipment, engineering technologies and processes
+
+page 31 ahep
+B14. Recognise the need for quality management systems and continuous improvement.
+
+page 31 ahep ** 
+B15. Apply knowledge of engineering management principles, commercial context, project management and relevant legal matters.
+
+page 31 ahep ** 
+B16. Function effectively as an individual, and as a member or leader of a team
+
+page 31 ahep ** 
+B17. Communicate effectively with technical and non-technical audiences.
+
+Project Management Body of Knowledge Fourth Edition, Project Management Institute, 2008 p6, p189 
 
 # Project Management
 
-- Once the team and team member roles were established, we were able to move on to creating a project plan. 
+- Once the team and team member roles were established, we were able to move on to the next stage of our project plan.
 
-- As part of this, we undertook research into project management, relying on sources such as Engineers 2020 and the Project Management Body of Knowledge(PMBOK)
+- In this stage we undertook research into project management, relying on sources such as Engineers 2020 and the Project Management Body of Knowledge(PMBOK) 
 
-The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively.
+The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively. (Project Management Institute, 2008, p6)
 
-The book emphasizes that every project is bound by constraints, known as the "triple constraint" or "iron triangle," which includes scope, schedule, and cost. Managing these constraints is essential for project success.
+The book emphasizes that every project is bound by constraints, which includes but are not limited scope, schedule, and cost. Managing these constraints is essential for project success. (Project Management Institute, 2008, p6)
+
+_Top 5 software metrics to manage development projects effectively_ (2019) _Sealights_. Available at: https://www.sealights.io/software-development-metrics/top-5-software-metrics-to-manage-development-projects-effectively/ (Accessed: 01 December 2023).
+
 
 ## WBS
 
-In the context of this project, cost is mostly non-applicable, therefore, we've focused on the other two parts excessively. By creating a work breakdown structure we were able to solidify the scope of the project, ensuring that the deliverables and tasks are known from an early stage. 
+In the context of this project, cost is mostly non-applicable, therefore, we've focused on the other two parts excessively, scope and schedule. By creating a work breakdown structure we were able to solidify the scope of the project, ensuring that the deliverables and tasks are known from an early stage. 
 
 The work breakdown structure is created by examining the required parts of a product, breaking those parts down into the work packages required to create them, and establishing the order in which those work packages need to be delivered. 
 
+> **Explain each part of the work breakdown structure briefly**
+
+Here we can see the work breakdown structure that was created for this project. The blocks in white denote the major deliverables that are necessary for the completion of the Timetable System. The blocks in green beneath the first level show the breakdown of the work required for that deliverable to be completed. While it is possible to break those blocks down further into third level work-packages, it was deemed to be too technical for this initial project planning presentation and thus omitted. 
+
+An additional benefit of the Work Breakdown Structure is that it is a visual form of describing the work required to complete a product, without needing to delve into the technical details, which helps to >Communicate effectively with technical and non-technical audiences. (ahep B17)
+
 ## Gantt Chart 
 
-Once the WBS was finalized, it allowed us to create a Gantt Chart to address the scheduling part of the project. 
-While creating the Gantt Chart, it is useful to consider what we know about risk management, dividing available time to ensure that the product is delivered on time, while allocating the appropriate amount of time to each task to ensure that any dependables are ready when they are needed. 
+Once the WBS was finalized, it allowed us to create a Gantt Chart to address the scheduling part of the project and solidify the order in which the tasks must be carried out. 
+While creating the Gantt Chart, it is useful to consider what we know about risk management, dividing available time to ensure that the product is delivered on time, while allocating the appropriate amount of time to each task to ensure that any dependables are ready when they are needed. Failure to consider and account for these risks may cause knock-on delays in completing future tasks on time, to the detriment of the final product. 
+
+
+## Ethical Considerations
+
+This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
+
+## Risk Management
+
+
+## Quality Management
+
+The PMBOK identifies the main processes of effective project quality management as 
+- Creating a quality plan which will identify the quality requirements of the project, and documenting how the project will demonstrate compliance
+- Performing quality assurance, which is the process of auditing the quality plan to ensure appropriate quality standards are maintained
+- Performing Quality Control, the process of monitoring and recording results of executing the quality activities to assess performance nd recommend necessary changes.  (Project Management Institute, 2008, p189)
+
+
+While there are many quality metrics that can be considered when it comes to software development, we have decided to focus on 4 main aspects that we believe are relevant for the creation of our quality plan.  
+
+Reliability, Performance, User Experience, Maintainability and code quality.
+(Sealights,2019)
+
+We distilled each of these criteria into quantifiable metrics which will be used throughout the duration of the project to ensure that the quality of the final product is of a high quality.
+
+Reliability: Average Failure Rate 
+Performance: Time to Output, Stress Testing
+User Experience: Average time for user output
+Maintainability and code Quality: Code Complexity, Lines of Code, Static Code analysis 
+
+As noted in the PMBOK guide, these criteria are only introductory and will be implemented, monitored, audited, and changed to fit the growing quality standards and needs of the project. 
 
 
 
 
->A breakdown of all work packages required which accurately specifies what is required to complete the product
->>>>>>> origin/main
+
+
+
+
+
