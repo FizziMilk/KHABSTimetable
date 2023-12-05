@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Kirushan/Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Kirushan/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Kirushan/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Group Meeting Notes.md"
+                "file": "Kirushan/Project Management.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "62f22b5d33e2c58b",
   "lastOpenFiles": [
-    "_Project/Project Plan.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "Kirushan/Project Management.md",
     "Benas/Group Meeting Notes.md",
+    "_Project/Project Plan.md",
     "Harrison/Group Meeting Notes - Harrison.md",
     "Pasted image 20231201104854.png",
     "Benas/Project Management Research.md",
@@ -160,8 +162,6 @@
     "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
     "Alex/Group meeting notes.md",
     "Alex/feasibility study.md",
-    "Kirushan/Project Management.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
     "Stavros Meeting 1 28-11-2023.md"
   ]
 }
