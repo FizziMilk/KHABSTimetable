@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b8f217a3a6254da4",
+        "id": "839a1c24764940c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1215e2c168859a37",
+            "id": "1b62a75747b852c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kirushan/Project Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6297ef45cb9b715b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harrison/Object Analysis Notes (2023-10-31) 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "399a4f11a6a66c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kirushan/Project Management.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1215e2c168859a37",
+  "active": "1b62a75747b852c8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Kirushan/Project Management.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
+    "conflict-files-obsidian-git.md",
     "Harrison/Group Meeting Notes - Harrison.md",
     "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
     "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
     "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
     "Harrison/Team Members.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "Kirushan/Project Management.md",
     "Sathyan/sustainability.md",
     "Pasted image 20231118194639.png",
     "Pasted image 20231201104854.png",
