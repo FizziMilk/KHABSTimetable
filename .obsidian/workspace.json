@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Kirushan/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Kirushan/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Kirushan/Project Management.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bac34af7ddbc9af",
+  "active": "1b62a75747b852c8",
   "lastOpenFiles": [
-    "Kirushan/Project Management.md",
     "conflict-files-obsidian-git.md",
+    "Kirushan/Project Management.md",
     "Sathyan/Resources.md",
     "Kirushan/Kirushan's brief overview of the project.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",

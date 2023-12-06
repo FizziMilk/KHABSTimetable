@@ -11,7 +11,7 @@ Risk management is the process of identifying, assessing, and controlling risks 
 
 High-level activities that make use of numerous technical innovations for projects such as the timetable systems. For all the reasons mentioned above and more, there is a degree of uncertainty in every software development project. Our timetable system project's success is determined by the level of risk involved in each project activity. Just being aware of the dangers is insufficient. Project management needs to identify, evaluate, rank, and handle all material dangers to be successful.
 
-Whether they are improving efficiency or adding functionality, most of the software engineering and development projects want to be unique. It is not risk-free to take advantage of these possibilities, as any software project manager will tell you.
+Whether they are improving efficiency or adding functionality, most of the software engineering and development projects want to be unique. It is not risk-free to take advantage of these possibilities, as any project manager will tell you.
 
 §  How will risk management benefit us as a group?
 
@@ -49,3 +49,11 @@ The process of organising and creating strategies and solutions to lessen risks 
 
 
 Conclusion
+
+What then is the meaning of risk management? It is the procedure for carrying out risk analysis by determining and evaluating opportunities, threats, and risks. It also involves choosing how best to react to them. Timetable systems need risk management because it may improve business results by helping organisations make well-informed decisions that minimise risk and maximise opportunities. It assists your company in anticipating potential hazards or difficulties so you can take preventative measures to keep your projects on track and under budget. Risk management is not about completely avoiding dangers; rather, it's about efficiently managing them so they don't interfere with your business goals, harm other areas of your operations, or damage your reputation.
+
+
+
+Ethical considerations 
+
+
