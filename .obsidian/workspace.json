@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15ce1094ef93aa86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sathyan/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Project Management.md",
+                "file": "Sathyan/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Project Management.md",
+                "file": "Sathyan/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirushan/Project Management.md"
+                "file": "Sathyan/Resources.md"
               }
             }
           }
@@ -183,15 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b75087442a57bbfb",
+  "active": "15ce1094ef93aa86",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Kirushan/Project Management.md",
+    "Sathyan/Resources.md",
     "Alex/Group meeting notes.md",
     "Benas/Group Meeting Notes.md",
     "Benas/Work Breakdown Structure.md",
-    "Kirushan/Project Management.md",
     "Kirushan/Kirushan's brief overview of the project.md",
     "Sathyan/sustainability.md",
-    "conflict-files-obsidian-git.md",
     "Stavros Meeting 1 28-11-2023.md",
     "Harrison/Group Meeting Notes - Harrison.md",
     "Pasted image 20231201104854.png",
