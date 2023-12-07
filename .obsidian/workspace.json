@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kirushan/Project Management.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Project Management.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Project Management.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirushan/Project Management.md"
+                "file": "Benas/Group Meeting Notes.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "62f22b5d33e2c58b",
   "lastOpenFiles": [
+    "Kirushan/Project Management (revised).md",
+    "Kirushan/Project Management.md",
     "Sathyan/sustainability.md",
     "conflict-files-obsidian-git.md",
     "Sathyan/Resources.md",
-    "Kirushan/Project Management.md",
     "Kirushan/Kirushan's brief overview of the project.md",
     "Benas/Group Meeting Notes.md",
     "_Project/Project Plan.md",
