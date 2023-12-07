@@ -81,4 +81,7 @@ How will we as a group use ethical considerations in our project?
 
 - Data Protection mechanisms:- To secure sensitive information contained in schedules, put in place strong data protection mechanisms. To stop illegal access or breaches, use encryption, access controls, and routine security audits.
 
+- Training and Experience:- Educate personnel engaged in the scheduling procedure on the significance of ethical considerations. Inform all parties involved in the scheduling process of how the process operates and how much their input is appreciated.
+
+
 Educational institutions or organisations can design systems that not only effectively manage schedules but also uphold ethical values and better serve the requirements of all involved parties by including these practises into the timetabling process.
