@@ -7,9 +7,10 @@ Risk management & Ethical Considerations
 
 Risk management is the process of identifying, assessing, and controlling risks related to finances, law, strategy, and security that have an impact on an organisation's assets and earnings. These dangers, sometimes known as risks, can have a variety of causes, including unstable finances, unavoidable mishaps, legal obligations, poor strategic planning, and natural disasters.
 
+
 §  Why do we need to consider risk management in our project?
 
-High-level activities that make use of numerous technical innovations for projects such as the timetable systems. For all the reasons mentioned above and more, there is a degree of uncertainty in every software development project. Our timetable system project's success is determined by the level of risk involved in each project activity. Just being aware of the dangers is insufficient. Project management needs to identify, evaluate, rank, and handle all material dangers to be successful.
+High-level activities that make use of numerous technical innovations for projects such as the timetable systems. For all the reasons mentioned above and more, there is a degree of uncertainty in every software development project. Our timetable system project's success is determined by the level of risk involved in each tasked deliverable. Just being aware of the dangers is insufficient. Project management needs to identify, evaluate, rank, and handle all material dangers to be successful.
 
 Whether they are improving efficiency or adding functionality, most of the software engineering and development projects want to be unique. It is not risk-free to take advantage of these possibilities, as any project manager will tell you.
 
