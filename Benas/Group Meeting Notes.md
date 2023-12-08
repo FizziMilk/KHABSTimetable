@@ -1,7 +1,7 @@
 
 # INTRODUCTION: 
 
-In this presentation we will talk about the Timetable Generation System
+This presentation is about our project, which is the Timetable Generation System
 
  We will cover how we came together, chose our project, and collaborated to create a project plan,(maybe paragraph 2) using various project and team management techniques to develop an effective solution, following the criteria of the brief provided to us by our supervisor.
 
@@ -42,7 +42,7 @@ To justify the team's choice of project, we considered each team members skills 
 Out of the twenty projects that were available to choose from, the timetable generation system was one of the most appealing to us. The project heavily focuses on software development, which is a shared interest across all team members. Furthermore, there are members which already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the system. 
 
 (what it means) Title and lines unrelated?
-By undertaking this task, we can develop key software engineering and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know, proving that as a team, we are capable of pursuing more complicated projects and challenges, applying new knowledge of engineering management principles, commercial context, project management and relevant legal matters [page 31 ahep]
+By undertaking this task, we can develop key software engineering and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know, proving that as a team, we are capable of pursuing more complicated projects and challenges, applying new knowledge of engineering management principles, commercial context, project management and relevant legal matters. These are identified as learning outcomes from the engineering council 2020 for incorporated and chartered engineers. [page 31 ahep]
 
 
 
@@ -50,20 +50,20 @@ By undertaking this task, we can develop key software engineering and project ma
 
 (intro) 
 To develop the system, multiple stages of idea development are crucial to understand which tools, components and limitations are involved in developing the timetabling system. From this, ideas can be fleshed out and concepts can be implemented in real world situations by understanding the stakeholders needs.
-The information obtained comes from idea development techniques derived from evidence-based reasoning, research and of course, the brief criteria provided by our supervisor, as well as every team members' invaluable personal experience with programming concepts and/or project management skills. https://digitalpromise.org/initiative/360-story-lab/360-production-guide/investigate/augmented-reality/idea-development/stages-of-idea-development/#:~:text=Through%20idea%20development%2C%20a%20developer,understanding%20people's%20needs%20and%20problems. [reference for idea development]
+The information obtained comes from idea development techniques derived from evidence-based reasoning, research and of course, the brief criteria provided by our supervisor, as well as every team members' invaluable personal experience with programming concepts and/or project management skills. These techniques were derived from our reference Digital Promise providing knowledge on idea development stages and concepts. https://digitalpromise.org/initiative/360-story-lab/360-production-guide/investigate/augmented-reality/idea-development/stages-of-idea-development/#:~:text=Through%20idea%20development%2C%20a%20developer,understanding%20people's%20needs%20and%20problems. [reference for idea development] 
 
 
 (cards)
 Beginning with a well-defined feasibility study, multiple factors come into play. 
 
-The first being:**Technical:**
+The first being **Technical:**
 
 -        Where an in depth Analysis of current resources was conducted (Sharma, 2023)
 
 -        and technical skills of the team as well as viability were examined (Sharma, 2023), so that specific roles could be assigned to each member, making the team as effective as possible.
 
 
-Then there are the **Economical & Environmental:** factors:
+Then there are the **Economical & Environmental factors:
 
 -       which Focus on development cost (Sharma, 2023).
 
@@ -75,7 +75,7 @@ The project must comply with the third factor, the **Law**
 
 -        For example, the data protection act (Sharma, 2023) must be considered amongst other important laws.
 
-The fourth includes **Operational:** factors
+The fourth includes **Operational** factors
 
 -        which Focus on how to maintain successful operation of a system and what procedures should be implemented (Sharma, 2023) for that purpose,
 
