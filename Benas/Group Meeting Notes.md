@@ -21,6 +21,8 @@ We intend to use a multi-disciplinary software development approach that consist
 - Database Configuration which will allow us to store information about the classrooms, modules and their required contact hours and lecturers. 
 - and finally A suitable software architecture to implement the required algorithm and connect the aforementioned parts/points of the program. 
 
+We will go over why we chose these approaches and how they will be implemented.
+
 # JUSTIFICATION:
 ## Realistic Expectations & Limitations (Option Analysis/Technical Solution Options)
 
@@ -30,22 +32,10 @@ An example of such a limitation is how the timetabling system will be hosted and
 
 This approach gives insight on how we want to tackle the project, and defines the effort involved in what we are trying to achieve.
 
-
-*** reference
-An example of such a limitation is how the timetabling system will be hosted and provided to clients. In an ideal scenario, we would want to push the system to a professional server and develop it on a larger scale. However, this would involve larger costs and time, especially if the product was used constantly. For this reason, we are accounting for this by simply hosting the system locally using a platform like GitHub Pages (where websites can be seen by those with permission).
-
-
 ### Why we chose this (justification)
 
-- Involves software and web development therefore it relates to the interests and background experiences of the group.
-- It will develop key technical skills which will be beneficial for the future.
-- Lots of learning opportunities and complexity which we found appealing.
 
-
-Script:
-
-
-(justification page) - Needs Lines
+(justification page)
 To justify the team's choice of project, we considered each team members skills and interests. We also considered the prospects and impact that the project would have for us and for the possible stakeholders and clients.
 
 (earth) Needs lines?
@@ -59,12 +49,12 @@ By undertaking this task, we can develop key software engineering and project ma
 # Idea Development
 
 (intro) 
-To develop the product, multiple stages of idea development are crucial to understand which tools, components and limitations are involved in developing the timetabling system. The information obtained comes from idea development techniques derived from evidence-based reasoning, research and of course, the brief criteria provided by our supervisor, as well as every team members' invaluable personal experience with programming concepts and/or project management skills.
+To develop the system, multiple stages of idea development are crucial to understand which tools, components and limitations are involved in developing the timetabling system. From this, ideas can be fleshed out and concepts can be implemented in real world situations by understanding the stakeholders needs.
+The information obtained comes from idea development techniques derived from evidence-based reasoning, research and of course, the brief criteria provided by our supervisor, as well as every team members' invaluable personal experience with programming concepts and/or project management skills. https://digitalpromise.org/initiative/360-story-lab/360-production-guide/investigate/augmented-reality/idea-development/stages-of-idea-development/#:~:text=Through%20idea%20development%2C%20a%20developer,understanding%20people's%20needs%20and%20problems. [reference for idea development]
 
 
 (cards)
 Beginning with a well-defined feasibility study, multiple factors come into play. 
-
 
 The first being:**Technical:**
 
@@ -93,15 +83,18 @@ Finally, **Scheduling:** is considered
 
 -        by Setting realistic deadlines and following them (Sharma, 2023) accordingly.
 
+These five factors were obtained from Sharma,
+https://www.tatvasoft.com/outsourcing/2022/08/define-feasibility-study-in-software-engineering.html which defines what feasibility is in software development and the different kinds of factors that are involved.
 
-After considering the feasibilities of the project, an option analysis can be conducted to determine how the project should be implemented, where we consider if:
 
+
+After considering the feasibilities of the project, an option analysis can be conducted to determine how the project should be constructed, where we consider if:
 
 * the project should be website or console based,
 * if the server should be hosted locally or externally,
 * and if the timetable should be manually or automatically generated
 
-After considering our brief and resources, we decided that the project should be shown on a website that is locally hosted and that the timetable is manually generated.
+After considering our expectations and supervisor advice, we decided that the project should be website-based, being locally hosted and manually generated. We did consider the possibility of automatically generating the timeslots and other features, but after discussing with our supervisor, this would only be done if there was enough time left over.
 
 -- TECHNICAL SOLUTIONS --
 
@@ -109,25 +102,25 @@ After considering our brief and resources, we decided that the project should be
 
 * WE can choose either Python or Java as our main programming language for this purpose.
 
-* Considering that  We need to use tools that will empower the use of these object-oriented concepts and adhere to the brief as much as possible, Java is perfectly suited for this as it was built within OOP in mind. Java also supports something called Springboot which is a framework for software engineering that streamlines the development process of applications, which will be incredibly useful for our project.
+* Considering that  We need to use tools that will empower the use of these object-oriented concepts and adhere to the brief as much as possible, Java is chosen for this project because it is an object-oriented programming language, but also because it is secure, simple and platform independent https://data-flair.training/blogs/pros-and-cons-of-java/. Java also supports something called Springboot which is a framework for software engineering that streamlines the development process of applications, which will be incredibly useful for our project. https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-java-spring-boot#:~:text=Spring%20Boot%20gives%20an%20easier,learn%20the%20underlying%20Spring%20framework. [reference for springboot]
 
 * The previous programming experience that our team has is also related to Java, and therefore we have a better advantage using it instead of Python.
 
-Due to our intentions of keeping the project on a smaller scale, we chose SQLite as our datebase, which doesn't require the use of a server host.
+Due to our intentions of keeping the project on a smaller scale, we chose SQLite as our datebase, as it works great for most low to medium traffic websites and is very simple to setup, which is definitely within our category. https://www.sqlite.org/whentouse.html [reference for SQLite]
 
 All this is done with the knowledge that as engineers, we must strive to  Select and apply appropriate materials, equipment, engineering technologies and processes (Ahep B13)
 
 
 -- SUSTAINABILITY -- 
 
-In our project, we are aiming to design solutions that will Evaluate the environmental and societal impact of solutions to our problems. (ahep B7 page 30)
+In our project, we are aiming to design solutions that will Evaluate the environmental and societal impact of solutions to our problems. [ahep B7 page 30]
 
-We ensure that there is a balance of these solutions within our project by scheduling appropriately, keeping the scope as intended and creating software that requires little maintenance after deployment. 
+We ensure that there is a balance of these solutions within our project by scheduling appropriately using a Gantt chart for example, keeping the scope as intended and creating software that requires little maintenance after deployment. 
 
 
 > Team Dynamics (effective team, stakeholder communication plan, how roles were assigned, task assignment)
 
-To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member.
+To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. https://www.sienaheights.edu/10-reasons-leadership-is-important-in-the-workplace/ [leadership reference]
 
 --- read bens character description ---
 
@@ -176,7 +169,7 @@ While creating the Gantt Chart, it is useful to consider what we know about risk
 
 §  Why do we need to consider risk management?
 
-There is a degree of uncertainty in every software development project. Our timetable system project's success is determined by how well we handle these uncertainties. The Project management plan needs to use a risk management process which identifies, analyses, evaluates, treats, monitors, records, reports and reviews risks (https://www.engc.org.uk/media/3824/guidance-on-risk.pdf reference)
+There are uncertainties in every project. Our timetable system project's success is influenced by how well we handle these uncertainties. The Project management plan needs to use a risk management process which identifies, analyses, evaluates, treats, monitors, records, reports and reviews risks (https://www.engc.org.uk/media/3824/guidance-on-risk.pdf reference)
 
 For us this process involved analysing deliverables and factors that could significantly affect our project if something were to go wrong. These risks could include:
 
@@ -213,19 +206,16 @@ As noted in the PMBOK guide, these criteria are only introductory and will be im
 
 ETHICAL CONSIDERATIONS
 
-In this project, our team has committed to identifying ethical concerns and making reasoned ethical choices informed by professional codes of conduct (insert F8 ahep reference ETHICS)
-
-all team members are contributing to the project and are treated equally and fairly. We ensure that all stakeholders have sufficient involvement and that no lack of communication is present.
+In this project, our team has committed to identifying ethical concerns and making reasoned ethical choices informed by professional codes of conduct (insert F8 ahep reference ETHICS) to ensure that all team members are contributing to the project and are treated equally and fairly. We ensure that all stakeholders have sufficient involvement and that no lack of communication is present.
 
 This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
 
 
-
 ## Next Steps...
 
-Our next steps are to acquire sufficient knowledge on the software that will be used to develop the project and to prepare our next three state gate review meetings with our supervisor. We will then begin engineering our project by following the Gantt chart in our project management plan starting with algorithm design and undertaking research.
+Our next steps are to acquire sufficient knowledge on the software that will be used to develop the project. We will then begin engineering our project by following the Gantt chart schedule in our project management plan starting with algorithm design and undertaking research.
 
-Thank you for listening to our presentation.
+Thank you for listening to our presentation and we appreciate your future feedback.
 
 ## References
 
