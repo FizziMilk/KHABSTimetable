@@ -1,7 +1,9 @@
+## COVER:
 
+Hi and welcome to this (duration) long presentation about the work that we carried as part of our Professional Practice and Team Design Project Module. 
 # INTRODUCTION: 
 
-This presentation is about our project, which is the Timetable Generation System
+The topic of this presentation is about our project, which is the Timetable Generation System
 
  We will cover how we came together, chose our project, and collaborated to create a project plan,(maybe paragraph 2) using various project and team management techniques to develop an effective solution, following the criteria of the brief provided to us by our supervisor.
 
@@ -165,6 +167,28 @@ An additional benefit of the Work Breakdown Structure is that it is a visual for
 Once the WBS was finalized, it allowed us to create a Gantt Chart to address the scheduling part of the project and solidify the order in which the tasks must be carried out. 
 While creating the Gantt Chart, it is useful to consider what we know about risk management, dividing available time to ensure that the product deadlines are met, while scheduling each task appropriately to ensure that any dependables are ready when they are needed. Failure to consider and account for these risks may cause knock-on delays in completing future tasks on time, to the detriment of the stakeholders and the product.
 
+## Quality Management
+
+The PMBOK guide identifies the main processes of effective project quality management such as 
+- Creating a plan which will identify the quality requirements of the project, and documenting how the project will demonstrate compliance to the plan
+- Performing quality assurance, which is the process of examining the plan to ensure appropriate standards being are maintained
+- and Performing Quality Control, the process of monitoring and recording results of executing the quality activities to assess performance and recommend necessary changes to the plan.  (Project Management Institute, 2008, p189)
+
+
+While there are many quality metrics that can be considered when it comes to software development, we have decided to focus on 4 main aspects that we believe are relevant for the creation of our quality plan.  
+
+Reliability, Performance, User Experience, and code quality.
+(Sealights,2019)
+
+We distilled each of these criteria into quantifiable metrics which will be used throughout the duration of the project to ensure that the timetable system is following the standards set by the quality management plan.
+
+Reliability: Average Failure Rate 
+Performance: Time to Output, Stress Testing
+User Experience: Average Time for effective usage of the system
+Code Quality: Complexity and size analysis 
+
+As noted in the PMBOK guide, these criteria are only introductory and will be implemented, monitored, audited, and changed to fit the growing quality standards and needs of the project. 
+
 ## Risk Management
 
 §  Why do we need to consider risk management?
@@ -180,27 +204,7 @@ For us this process involved analysing deliverables and factors that could signi
 
 We can mitigate these risks by implementing safeguards: for example, the loss of data is prevented by using a version control software called Git. A generous amount of time for key deliverables and research is given to ensure members have sufficient space to develop their skills and work. This also assists with acquiring knowledge to avoid integrating issues.
 
-## Quality Management
 
-The PMBOK guide identifies the main processes of effective project quality management such as 
-- Creating a plan which will identify the quality requirements of the project, and documenting how the project will demonstrate compliance to the plan
-- Performing quality assurance, which is the process of examining the plan to ensure appropriate standards being are maintained
-- and Performing Quality Control, the process of monitoring and recording results of executing the quality activities to assess performance and recommend necessary changes.  (Project Management Institute, 2008, p189)
-
-
-While there are many quality metrics that can be considered when it comes to software development, we have decided to focus on 4 main aspects that we believe are relevant for the creation of our quality plan.  
-
-Reliability, Performance, User Experience, and code quality.
-(Sealights,2019)
-
-We distilled each of these criteria into quantifiable metrics which will be used throughout the duration of the project to ensure that the timetable system is up to standard to the quality plan.
-
-Reliability: Average Failure Rate 
-Performance: Time to Output, Stress Testing
-User Experience: Average Time for effective usage of the system
-Code Quality: Complexity and size analysis 
-
-As noted in the PMBOK guide, these criteria are only introductory and will be implemented, monitored, audited, and changed to fit the growing quality standards and needs of the project. 
 
 ## Ethical Considerations
 
