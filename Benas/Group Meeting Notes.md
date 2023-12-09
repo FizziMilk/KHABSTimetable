@@ -40,10 +40,10 @@ This approach gives insight on how we want to tackle the project, and defines th
 (justification page)
 To justify the team's choice of project, we considered each team members skills and interests. We also considered the prospects and impact that the project would have for us and for the possible stakeholders and clients.
 
-(earth) Needs lines?
+(Why we chose the project)
 Out of the twenty projects that were available to choose from, the timetable generation system was one of the most appealing to us. The project heavily focuses on software development, which is a shared interest across all team members. Furthermore, there are members which already have background experience and knowledge in programming which influenced our choice of projects, and will be an asset during the development of the system. 
 
-(what it means) Title and lines unrelated?
+(The benefits)
 By undertaking this task, we can develop key software engineering and project management skills which will be beneficial for our future careers. We saw this as a learning opportunity where we can apply what we already know, proving that as a team, we are capable of pursuing more complicated projects and challenges, applying new knowledge of engineering management principles, commercial context, project management and relevant legal matters. These are identified as learning outcomes from the engineering council 2020 for incorporated and chartered engineers. [page 31 ahep]
 
 
@@ -122,7 +122,7 @@ We ensure that there is a balance of these solutions within our project by sched
 
 > Team Dynamics (effective team, stakeholder communication plan, how roles were assigned, task assignment)
 
-To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member. https://www.sienaheights.edu/10-reasons-leadership-is-important-in-the-workplace/ [leadership reference]
+To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member.
 
 --- read bens character description ---
 
@@ -212,7 +212,7 @@ We can mitigate these risks by implementing safeguards: for example, the loss of
 
 ETHICAL CONSIDERATIONS
 
-In this project, our team has committed to identifying ethical concerns and making reasoned ethical choices informed by professional codes of conduct (insert F8 ahep reference ETHICS) to ensure that all team members are contributing to the project and are treated equally and fairly. We ensure that all stakeholders have sufficient involvement and that no lack of communication is present.
+In this project, our team has committed to identifying ethical concerns and making reasoned ethical choices informed by professional codes of conduct (insert F8 ahep reference ETHICs and (https://www.engc.org.uk/ethics for professional code of conduct) to ensure that all team members are contributing to the project and are treated equally and fairly. We ensure that all stakeholders have sufficient involvement and that no lack of communication is present.
 
 This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
 
