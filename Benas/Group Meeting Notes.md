@@ -145,6 +145,8 @@ Because we applied these methods, we ensure a mutual benefit for both ourselves 
 
 The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively. (Project Management Institute, 2008, p6)
 
+NEXT SLIDE
+
 The book emphasizes that every project is bound by constraints, which includes but are not limited to scope, schedule, and cost. Managing these constraints is essential for project success. (Project Management Institute, 2008, p6)
 
 
