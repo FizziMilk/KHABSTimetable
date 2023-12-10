@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4c05e62813bb7751",
+    "id": "327fb16496b5bdac",
     "type": "split",
     "children": [
       {
-        "id": "148f3ae1848b09fc",
+        "id": "892e995b9bfbbb11",
         "type": "tabs",
         "children": [
           {
-            "id": "d223363fb601fe54",
+            "id": "62f22b5d33e2c58b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "55fbf6be052e922b",
+    "id": "d80a66c2b9171bcc",
     "type": "split",
     "children": [
       {
-        "id": "8f375db626aeedf4",
+        "id": "0743e8e798260367",
         "type": "tabs",
         "children": [
           {
-            "id": "cc6a5ac34a78a048",
+            "id": "39dc6c6a05b80d73",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "aae2cd92741b7800",
+            "id": "7ddcf2b7530da3c0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "72e71b9ce597b259",
+            "id": "9ba208667e86b52b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ef3eba1c3c9f775f",
+    "id": "581e2e38e5919c59",
     "type": "split",
     "children": [
       {
-        "id": "2047842247f41a41",
+        "id": "59d83dc58c4ae9e4",
         "type": "tabs",
         "children": [
           {
-            "id": "bf6e4a4d5695a3a5",
+            "id": "d55dff1c55362e3a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "4978a8f0f2bf1293",
+            "id": "1f4535ea79a30484",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Harrison/Group Meeting Notes - Harrison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4433df10c218f16d",
+            "id": "d93241f9783e7ec3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "80cea46b50203331",
+            "id": "a443640ca4871dec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Group Meeting Notes.md"
+                "file": "Harrison/Group Meeting Notes - Harrison.md"
               }
             }
           }
@@ -146,13 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d223363fb601fe54",
+  "active": "62f22b5d33e2c58b",
   "lastOpenFiles": [
-    "Benas/Week 7 Lecture.md",
-    "Benas/Work Breakdown Structure.md",
-    "Alex/Group meeting notes.md",
     "Kirushan/Project Management.md",
+    "Kirushan/Project Management (revised).md",
     "Sathyan/sustainability.md",
-    "Benas/Group Meeting Notes.md"
+    "conflict-files-obsidian-git.md",
+    "Sathyan/Resources.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "Benas/Group Meeting Notes.md",
+    "_Project/Project Plan.md",
+    "Harrison/Group Meeting Notes - Harrison.md",
+    "Pasted image 20231201104854.png",
+    "Benas/Project Management Research.md",
+    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
+    "Benas/Work Breakdown Structure.md",
+    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
+    "Alex/Group meeting notes.md",
+    "Alex/feasibility study.md",
+    "Stavros Meeting 1 28-11-2023.md"
   ]
 }
