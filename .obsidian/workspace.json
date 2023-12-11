@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Kirushan/Project Management (revised).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Kirushan/Project Management (revised).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Kirushan/Project Management (revised).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Group Meeting Notes.md"
+                "file": "Kirushan/Project Management (revised).md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "62f22b5d33e2c58b",
   "lastOpenFiles": [
+    "Benas/Group Meeting Notes.md",
     "Alex/Group meeting notes.md",
     "Alex/feasibility study.md",
-    "Benas/Group Meeting Notes.md",
     "Benas/Work Breakdown Structure.md",
     "Benas/Week 7 Lecture.md",
     "Benas/PMBOK Guide.md",
