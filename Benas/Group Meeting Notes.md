@@ -117,7 +117,7 @@ All this is done with the knowledge that as engineers, we must strive to  Select
 
 In our project, we are aiming to design solutions that will Evaluate the environmental and societal impact of solutions to our problems. [ahep B7 page 30]
 
-We ensure that there is a balance of these solutions within our project by scheduling appropriately using a Gantt chart for example, keeping the scope as intended and creating software that requires little maintenance after deployment. 
+We ensure that there is a balance of these solutions within our project by scheduling appropriately using a Gantt chart, keeping the scope as intended and creating software that requires little maintenance after deployment. 
 
 
 > Team Dynamics (effective team, stakeholder communication plan, how roles were assigned, task assignment)
