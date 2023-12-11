@@ -16,9 +16,9 @@ Once these are past their initial stages of development, testing can begin. With
 
 Following this stage, Report development can begin, which includes the documentation of the development process, recording of the research conducted, and the creation of code documentation which will assist in the project's maintainability and scalability. 
 
-Feedback is then collected from both the Project Supervisor and outside sources to ensure that the team is on track in regards to quality and user experience, with improvements being carried out shortly after this phase. 
+Feedback is then collected from both the Project Supervisor and outside sources to ensure that the team is on track in regards to quality and user experience, with improvements being carried out shortly after this phase. (add quality management plan)
 
-Finally, once the initial algorithm, website, and database are completed, they will all need to be merged together into an API, that allows the user to use the algorithm through a website. This is done to ensure the best user experience possible. Some final feedback is collected, and polish is applied, addressing any small issues that there is time for.
+Finally, once the initial algorithm, website, and database are completed, they will all need to be merged together into an API, that allows the user to use the algorithm through a website. This is done to ensure the best user experience possible. Some final feedback is collected, and polish is applied, addressing any small issues that there is time for. (?? weird paragraph)
 
 As this is a software based project, most of these tasks can be carried out anywhere one can access a computer and an internet connection.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kirushan/Project Management (revised).md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kirushan/Project Management (revised).md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kirushan/Project Management (revised).md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kirushan/Project Management (revised).md"
+                "file": "Benas/Brief Overview of Project Deliverables.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "62f22b5d33e2c58b",
   "lastOpenFiles": [
+    "Kirushan/Project Management (revised).md",
     "Benas/Brief Overview of Project Deliverables.md",
     "Benas/Group Meeting Notes.md",
     "Alex/Group meeting notes.md",
@@ -156,7 +157,6 @@
     "Benas/Week 7 Lecture.md",
     "Benas/PMBOK Guide.md",
     "Benas/Project Management Research.md",
-    "Kirushan/Project Management (revised).md",
     "Kirushan/Project Management.md",
     "Sathyan/sustainability.md",
     "conflict-files-obsidian-git.md",
