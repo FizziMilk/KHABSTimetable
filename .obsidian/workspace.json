@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Group Meeting Notes.md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Group Meeting Notes.md"
+                "file": "Benas/Brief Overview of Project Deliverables.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "62f22b5d33e2c58b",
   "lastOpenFiles": [
+    "Stavros Meeting 1 28-11-2023.md",
+    "Sathyan/Resources.md",
     "Benas/Brief Overview of Project Deliverables.md",
-    "Kirushan/Project Management (revised).md",
     "Benas/Group Meeting Notes.md",
+    "Kirushan/Project Management (revised).md",
     "Alex/Group meeting notes.md",
     "Alex/feasibility study.md",
     "Benas/Work Breakdown Structure.md",
@@ -160,14 +162,12 @@
     "Kirushan/Project Management.md",
     "Sathyan/sustainability.md",
     "conflict-files-obsidian-git.md",
-    "Sathyan/Resources.md",
     "Kirushan/Kirushan's brief overview of the project.md",
     "_Project/Project Plan.md",
     "Harrison/Group Meeting Notes - Harrison.md",
     "Pasted image 20231201104854.png",
     "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
     "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
-    "Stavros Meeting 1 28-11-2023.md"
+    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md"
   ]
 }
