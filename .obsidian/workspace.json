@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cce3017bb4a0dbf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benas/Group Meeting Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md",
+                "file": "Benas/Group Meeting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md"
+                "file": "Benas/Group Meeting Notes.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f22b5d33e2c58b",
+  "active": "cce3017bb4a0dbf3",
   "lastOpenFiles": [
+    "Hand in Stuff.md",
+    "Benas/Brief Overview of Project Deliverables.md",
     "Stavros Meeting 1 28-11-2023.md",
     "Sathyan/Resources.md",
-    "Benas/Brief Overview of Project Deliverables.md",
     "Benas/Group Meeting Notes.md",
     "Kirushan/Project Management (revised).md",
     "Alex/Group meeting notes.md",
