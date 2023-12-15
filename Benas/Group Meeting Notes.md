@@ -125,13 +125,13 @@ AAAAAAAAAAAAAAAA
 To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member.
 
 
-
  Roles and deliverables were given out based on strengths and weaknesses, and the whole decision-making process was done as a team, rather than one individual being responsible for planning everything. (look at the table on presentation)
 
 The team has consistent meetings to ensure there is open communication between stakeholders, and that deadlines are being met effectively. A team communication leader was appointed to help with this purpose.
 
-All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team. All of this reinforces the notion that as engineers in a team environment we strive to function effectively as individuals, and as members or leaders of the team. (Ahep B16)
+All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team.
 
+All of this reinforces the notion that as engineers in a team environment we strive to function effectively as individuals, and as members or leaders of the team. (Ahep B16)
 Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project. 
 
 
