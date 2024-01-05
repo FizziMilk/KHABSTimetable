@@ -1,14 +1,32 @@
 {
   "main": {
-    "id": "327fb16496b5bdac",
+    "id": "4c05e62813bb7751",
     "type": "split",
     "children": [
       {
-        "id": "892e995b9bfbbb11",
+        "id": "148f3ae1848b09fc",
         "type": "tabs",
         "children": [
           {
-            "id": "62f22b5d33e2c58b",
+            "id": "57d9981af29b49be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Project/Project Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eccebb71807af273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d223363fb601fe54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,14 +38,12 @@
             }
           },
           {
-            "id": "cce3017bb4a0dbf3",
+            "id": "2ed813c1b52ea237",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Harrison/Team Members.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.3"
               }
             }
           }
@@ -38,15 +54,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d80a66c2b9171bcc",
+    "id": "55fbf6be052e922b",
     "type": "split",
     "children": [
       {
-        "id": "0743e8e798260367",
+        "id": "8f375db626aeedf4",
         "type": "tabs",
         "children": [
           {
-            "id": "39dc6c6a05b80d73",
+            "id": "cc6a5ac34a78a048",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +72,7 @@
             }
           },
           {
-            "id": "7ddcf2b7530da3c0",
+            "id": "aae2cd92741b7800",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +87,7 @@
             }
           },
           {
-            "id": "9ba208667e86b52b",
+            "id": "72e71b9ce597b259",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "581e2e38e5919c59",
+    "id": "ef3eba1c3c9f775f",
     "type": "split",
     "children": [
       {
-        "id": "59d83dc58c4ae9e4",
+        "id": "2047842247f41a41",
         "type": "tabs",
         "children": [
           {
-            "id": "d55dff1c55362e3a",
+            "id": "bf6e4a4d5695a3a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harrison/Team Members.md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +126,19 @@
             }
           },
           {
-            "id": "1f4535ea79a30484",
+            "id": "4978a8f0f2bf1293",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harrison/Team Members.md",
+                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d93241f9783e7ec3",
+            "id": "4433df10c218f16d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +149,12 @@
             }
           },
           {
-            "id": "a443640ca4871dec",
+            "id": "80cea46b50203331",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harrison/Team Members.md"
+                "file": "Benas/Brief Overview of Project Deliverables.md"
               }
             }
           }
@@ -159,30 +175,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cce3017bb4a0dbf3",
+  "active": "2ed813c1b52ea237",
   "lastOpenFiles": [
-    "Benas/Group Meeting Notes.md",
-    "Benas/Brief Overview of Project Deliverables.md",
-    "Stavros Meeting 1 28-11-2023.md",
-    "Harrison/Team Members.md",
     "Hand in Stuff.md",
-    "Sathyan/Resources.md",
-    "Kirushan/Project Management (revised).md",
-    "Alex/Group meeting notes.md",
-    "Alex/feasibility study.md",
-    "Benas/Work Breakdown Structure.md",
-    "Benas/Week 7 Lecture.md",
     "Benas/PMBOK Guide.md",
     "Benas/Project Management Research.md",
-    "Kirushan/Project Management.md",
-    "Sathyan/sustainability.md",
-    "conflict-files-obsidian-git.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
-    "_Project/Project Plan.md",
-    "Harrison/Group Meeting Notes - Harrison.md",
-    "Pasted image 20231201104854.png",
+    "Benas/Brief Overview of Project Deliverables.md",
     "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md"
+    "_Project/Project Plan.md",
+    "_Project/Project Breakdown.md",
+    "_Project/AHEP - Engineering Council Research for Presentation 1.md",
+    "_Project/CHATGPT - Springboot and java backend 1.md",
+    "_Project/Literature Review Paragraphs/Alex Paragraph Literature Review.md",
+    "Benas/Group Meeting Notes.md",
+    "Benas/Week 7 Lecture.md",
+    "Benas/Work Breakdown Structure.md",
+    "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
+    "Harrison/Meetings (Semester 1)/7th Meeting - (2023-11-30).md",
+    "Stavros Meeting 1 28-11-2023.md",
+    "Sathyan/Resources.md",
+    "Pasted image 20231201104854.png",
+    "Kirushan/Project Management (revised).md",
+    "Harrison/Object Analysis Notes (2023-10-31) 1.md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md",
+    "Harrison/Group Meeting Notes - Harrison.md",
+    "Alex/Group meeting notes.md",
+    "Kirushan/Project Management.md",
+    "Sathyan/sustainability.md"
   ]
 }
