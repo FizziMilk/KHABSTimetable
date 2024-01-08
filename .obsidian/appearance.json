@@ -3,5 +3,6 @@
   "baseFontSize": 14,
   "enabledCssSnippets": [
     "image-zoom"
-  ]
+  ],
+  "theme": "obsidian"
 }
