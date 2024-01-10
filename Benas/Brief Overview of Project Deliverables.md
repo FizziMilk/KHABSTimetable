@@ -8,9 +8,9 @@ This was done online via Microsoft Teams while the tasks were centred around ind
 
 Phase 2: Project Execution
 In this phase, the team will start carrying out their assigned duties as per the Gantt Chart.
-Algorithm Design is carried out first, as the rest of the deliverables will be based on the planned software architecture that is required for the timetable system. This is done by creating a UML Class Diagram which shows the function of each part of the program, and how it links with other parts. 
+Algorithm Design is carried out first, as the rest of the deliverables will be based on the planned software architecture that is required for the timetable system. This is done by creating a UML Class Diagram which represents the software structure of the program, and how it links with other parts. 
 
-Shortly after, the development phase begins, where the Algorithm, Website, and Database implementation commences. The algorithm is created using Java and the Springboot framework, HTML, Javascript and CSS for the Website, and SQLite for the Database.
+Shortly after, the development phase begins, where the Algorithm, Website, and Database implementation commences. The algorithm is created using Java and the Springboot framework, while the website uses HTML, Javascript and CSS. SQLite is used for the Database.
 
 Once these are past their initial stages of development, testing can begin. With the commencement of testing, issues with the program in regards to user interface, performance, and quality are discovered, and repaired, ensuring they are removed before they become permanent in the program's codebase. 
 
@@ -18,12 +18,12 @@ Following this stage, Report development can begin, which includes the documenta
 
 Feedback is then collected from both the Project Supervisor and outside sources to ensure that the team is on track in regards to quality and user experience, with improvements being carried out shortly after this phase. (add quality management plan)
 
-Finally, once the initial algorithm, website, and database are completed, they will all need to be merged together into an API, that allows the user to use the algorithm through a website. This is done to ensure the best user experience possible. Some final feedback is collected, and polish is applied, addressing any small issues that there is time for. (?? weird paragraph)
+Finally, once the initial algorithm, website, and database are completed, they will all need to be merged together into an API, that allows the user to use the algorithm through a website. This is done to ensure the best user experience possible. Some final feedback is collected, and polish is applied, addressing any small issues that there is time for.
 
 As this is a software based project, most of these tasks can be carried out anywhere one can access a computer and an internet connection.
 
 Phase 3: Report Development
 
-In this final phase, most of the team is set to focus on the creation of the report, using both individual research, writing, and cooperative tasks to ensure high quality documentation for the project is produced. 
+In this final phase, most of the team is set to focus on the creation of the report, using both individual research, writing, and cooperative tasks to ensure high quality documentation is produced.
 
 

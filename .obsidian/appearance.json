@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "enabledCssSnippets": [
     "image-zoom"
-  ]
+  ],
+  "theme": "obsidian"
 }

@@ -117,23 +117,21 @@ All this is done with the knowledge that as engineers, we must strive to  Select
 
 In our project, we are aiming to design solutions that will Evaluate the environmental and societal impact of solutions to our problems. [ahep B7 page 30]
 
-We ensure that there is a balance of these solutions within our project by scheduling appropriately using a Gantt chart for example, keeping the scope as intended and creating software that requires little maintenance after deployment. 
+We ensure that there is a balance of these solutions within our project by scheduling appropriately using a Gantt chart, keeping the scope as intended and creating software that requires little maintenance after deployment. 
 
-
+AAAAAAAAAAAAAAAA
 > Team Dynamics (effective team, stakeholder communication plan, how roles were assigned, task assignment)
 
 To ensure that the team is able to be as effective as possible, a leader was chosen so that members can complete their tasked deliverables within time schedules, and to guarantee responsibility for each member.
 
---- read bens character description ---
 
  Roles and deliverables were given out based on strengths and weaknesses, and the whole decision-making process was done as a team, rather than one individual being responsible for planning everything. (look at the table on presentation)
 
 The team has consistent meetings to ensure there is open communication between stakeholders, and that deadlines are being met effectively. A team communication leader was appointed to help with this purpose.
 
-(go through each of the team members)
+All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team.
 
-All of this was made possible by the open-minded individuals in our team who understand these responsibilities and tactics that allowed us to be as efficient and effective as possible as a team. All of this reinforces the notion that as engineers in a team environment we strive to function effectively as individuals, and as members or leaders of the team. (Ahep B16)
-
+All of this reinforces the notion that as engineers in a team environment we strive to function effectively as individuals, and as members or leaders of the team. (Ahep B16)
 Because we applied these methods, we ensure a mutual benefit for both ourselves and the stakeholders of the project. 
 
 
@@ -145,7 +143,7 @@ Because we applied these methods, we ensure a mutual benefit for both ourselves 
 
 The PMBOK Guide describes the project life cycle as a series of phases, including initiation, planning, execution, monitoring, controlling, and closing. Understanding the life cycle helps in structuring and managing the project effectively. (Project Management Institute, 2008, p6)
 
-NEXT SLIDE
+NEXT SLIDE -- DONT TALK NOW
 
 The book emphasizes that every project is bound by constraints, which includes but are not limited to scope, schedule, and cost. Managing these constraints is essential for project success. (Project Management Institute, 2008, p6)
 
@@ -157,8 +155,6 @@ The book emphasizes that every project is bound by constraints, which includes b
 In the context of this project, cost is mostly non-applicable, therefore, we've focused on the other two parts excessively, which are scope and schedule. By creating a work breakdown structure we were able to solidify the scope of the project, ensuring that the deliverables and tasks are known from an early stage. 
 
 The work breakdown structure is created by examining the required parts of the product, breaking those parts down into the work packages required to create them, and establishing the order in which those work packages need to be delivered. 
-
-> **Explain each part of the work breakdown structure briefly**
 
 Here we can see the work breakdown structure that was created for this project. The blocks in white denote the major deliverables that are necessary for the completion of the Timetable System. The blocks in green beneath the first level show the breakdown of the work required for that deliverable to be completed. While it is possible to break those blocks down further into third level work-packages, it was deemed to be too technical for this presentation and thus omitted. 
 
@@ -184,18 +180,16 @@ Reliability, Performance, User Experience, and code quality.
 
 We distilled each of these criteria into quantifiable metrics which will be used throughout the duration of the project to ensure that the timetable system is following the standards set by the quality management plan.
 
-Reliability: Average Failure Rate 
-Performance: Time to Output, Stress Testing
-User Experience: Average Time for effective usage of the system
-Code Quality: Complexity and size analysis 
-
+`Reliability: Average Failure Rate 
+`Performance: Time to Output, Stress Testing
+`User Experience: Average Time for effective usage of the system
+`Code Quality: Complexity and size analysis``
+``
 As noted in the PMBOK guide, these criteria are only introductory and will be implemented, monitored, audited, and changed to fit the growing quality standards and needs of the project. 
 
 ## Risk Management
 
-§  Why do we need to consider risk management?
-
-There are uncertainties in every project. Our timetable system project's success is influenced by how well we handle these uncertainties. The Project management plan needs to use a risk management process which identifies, analyses, evaluates, treats, monitors, records, reports and reviews risks (https://www.engc.org.uk/media/3824/guidance-on-risk.pdf reference)
+There are uncertainties in every project. Our timetable system project's success is influenced by how well we handle these uncertainties. The Project management plan needs to use a risk management process which identifies, analyses, evaluates, treats, monitors, records, reports and reviews risks
 
 For us this process involved analysing deliverables and factors that could significantly affect our project if something were to go wrong. These risks could include:
 
@@ -212,8 +206,9 @@ We can mitigate these risks by implementing safeguards: for example, the loss of
 
 ETHICAL CONSIDERATIONS
 
-In this project, our team has committed to identifying ethical concerns and making reasoned ethical choices informed by professional codes of conduct (insert F8 ahep reference ETHICs and (https://www.engc.org.uk/ethics for professional code of conduct) to ensure that all team members are contributing to the project and are treated equally and fairly. We ensure that all stakeholders have sufficient involvement and that no lack of communication is present.
+In this project, our team has committed to identifying ethical concerns and making reasoned ethical choices informed by professional codes of conduct to ensure that all team members are contributing to the project and are treated equally and fairly.
 
+ We ensure that all stakeholders have sufficient involvement and that no lack of communication is present.
 This considers that every member of the team will not have an unrealistic workload and that the stakeholders requirements are met effectively.
 
 
