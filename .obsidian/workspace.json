@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "327fb16496b5bdac",
+    "id": "4e659d1343d2641f",
     "type": "split",
     "children": [
       {
-        "id": "892e995b9bfbbb11",
+        "id": "839a1c24764940c4",
         "type": "tabs",
         "children": [
           {
-            "id": "62f22b5d33e2c58b",
+            "id": "118a9ba8991a2a97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d9a22db443d7a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d80a66c2b9171bcc",
+    "id": "3fb2bc38c834f98e",
     "type": "split",
     "children": [
       {
-        "id": "0743e8e798260367",
+        "id": "657b5a89fd7e8473",
         "type": "tabs",
         "children": [
           {
-            "id": "39dc6c6a05b80d73",
+            "id": "9b637179c2d9fe49",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "7ddcf2b7530da3c0",
+            "id": "7c913b7c8eb86fb8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "9ba208667e86b52b",
+            "id": "ac94fe277bb274e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "581e2e38e5919c59",
+    "id": "85eb3dfc93c577d1",
     "type": "split",
     "children": [
       {
-        "id": "59d83dc58c4ae9e4",
+        "id": "051e04681d7b212a",
         "type": "tabs",
         "children": [
           {
-            "id": "d55dff1c55362e3a",
+            "id": "701efe1998968a30",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "1f4535ea79a30484",
+            "id": "dcf66383f168388e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d93241f9783e7ec3",
+            "id": "b1c27e7f6d3217bd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "a443640ca4871dec",
+            "id": "e753d32518e8af37",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Benas/Brief Overview of Project Deliverables.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,29 +138,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9a22db443d7a9a",
+  "active": "118a9ba8991a2a97",
   "lastOpenFiles": [
-    "Hand in Stuff.md",
-    "conflict-files-obsidian-git.md",
-    "Benas/Brief Overview of Project Deliverables.md",
-    "Benas/Project Management Research.md",
-    "Harrison/Group Meeting Notes - Harrison.md",
-    "Kirushan/Project Management (revised).md",
-    "Benas/Group Meeting Notes.md",
-    "Alex/Group meeting notes.md",
-    "Alex/feasibility study.md",
-    "Benas/Work Breakdown Structure.md",
-    "Benas/Week 7 Lecture.md",
-    "Benas/PMBOK Guide.md",
     "Kirushan/Project Management.md",
-    "Sathyan/sustainability.md",
+    "Kirushan/Project Management (revised).md",
+    "Hand in Stuff.md",
+    "Benas/Brief Overview of Project Deliverables.md",
+    "conflict-files-obsidian-git.md",
     "Sathyan/Resources.md",
     "Kirushan/Kirushan's brief overview of the project.md",
-    "_Project/Project Plan.md",
+    "Harrison/Object Analysis Notes (2023-10-31) 1.md",
+    "Harrison/Group Meeting Notes - Harrison.md",
+    "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
+    "Harrison/Tasks/Task 2 - Presentation (SC1) (2023-10-6 to 2023-12-15) 1.md",
+    "Harrison/Tasks/Task 3 - Literature review & project planning (2023-10-30 to 2023-12-15) 1.md",
+    "Harrison/Team Members.md",
+    "Sathyan/sustainability.md",
+    "Pasted image 20231118194639.png",
     "Pasted image 20231201104854.png",
-    "_Project/Task 1 - Establish a Team & Project (2023-10-5 to 2023-10-27).md",
-    "Harrison/Presentation/Object Analysis Notes (2023-10-31).md",
-    "Harrison/Presentation/AHEP - Engineering Council Research for Presentation.md",
-    "Stavros Meeting 1 28-11-2023.md"
+    "Stavros Meeting 1 28-11-2023.md",
+    "Harrison/Meetings (Semester 1)/7th Meeting - (2023-11-30).md",
+    "Benas/Group Meeting Notes.md",
+    "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
+    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md"
   ]
 }
