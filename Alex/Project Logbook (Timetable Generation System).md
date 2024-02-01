@@ -1,2 +1,2 @@
 
-First step was to install a software called IntelliJ IDEA which was beneficial for implementing the main program and sharing each part of the code with the other group members.
+First step was to install a software called IntelliJ IDEA which was beneficial for implementing the main program and sharing each part of the code with the other group members. This enabled the group to make changes and to fix any errors within the code, making sure the algorithm performs efficiently and without any problems.
