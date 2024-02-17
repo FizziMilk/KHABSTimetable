@@ -6,5 +6,6 @@ After that, the group started coding the main body of the program. The team esta
 Once the main body was programmed, I performed initial testing by running the code and identifying any logic errors. This was done by adding different inputs after compilation and testing to see if it functions correctly. After the errors were identified, I reported them to the Software implementer and the architect to make sure the problem is solved. 
 
 some of the errors identified:
--there should be maximum of 12 weeks in a semester and the user shouldn't input more than the number 12
--
+- "unable to find day" message is displayed with any day apart from Monday even though the days are found
+- "Unable to find day" message is displayed after timeslot has been added, and the timeslot is not printed.
+![[Pasted image 20240215152845.png]]
