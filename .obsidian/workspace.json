@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alex/Project Logbook (Timetable Generation System).md",
+                "file": "Sathyan/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7764d3e8da99f60c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alex/Project Logbook (Timetable Generation System).md",
+                "file": "Sathyan/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alex/Project Logbook (Timetable Generation System).md",
+                "file": "Sathyan/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alex/Project Logbook (Timetable Generation System).md"
+                "file": "Sathyan/Resources.md"
               }
             }
           }
@@ -146,14 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edba4e91c9bae1c8",
+  "active": "7764d3e8da99f60c",
   "lastOpenFiles": [
+    "Alex/feasibility study.md",
+    "Alex/Group meeting notes.md",
+    "Alex/Justification.md",
+    "Alex/Project Logbook (Timetable Generation System).md",
     "Pasted image 20240215152845.png",
     "Untitled.canvas",
     "2024-01-25.md",
     "conflict-files-obsidian-git.md",
     "Stavros Meeting 1 28-11-2023.md",
-    "Alex/Project Logbook (Timetable Generation System).md",
     "Kirushan/Project Management.md",
     "Kirushan/Project Management (revised).md",
     "Hand in Stuff.md",
