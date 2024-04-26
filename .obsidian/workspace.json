@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sathyan/Resources.md",
+                "file": "Benas/Week 7 Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "582edc5e7dd6360b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sathyan/Resources.md",
+                "file": "Benas/Week 7 Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sathyan/Resources.md",
+                "file": "Benas/Week 7 Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sathyan/Resources.md"
+                "file": "Benas/Week 7 Lecture.md"
               }
             }
           }
@@ -159,10 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7764d3e8da99f60c",
+  "active": "582edc5e7dd6360b",
   "lastOpenFiles": [
-    "Hand in Stuff.md",
+    "Benas/Work Breakdown Structure.md",
+    "Benas/Project Management Research.md",
+    "Benas/PMBOK Guide.md",
+    "Benas/Brief Overview of Project Deliverables.md",
+    "Kirushan/Kirushan's brief overview of the project.md",
+    "Kirushan/Project Management (revised).md",
+    "Pasted image 20231201104854.png",
+    "Pasted image 20231118193704.png",
+    "Pasted image 20231116162328.png",
+    "README.md",
     "Sathyan/Resources.md",
+    "Hand in Stuff.md",
     "Alex/Group meeting notes.md",
     "Alex/feasibility study.md",
     "Alex/Justification.md",
@@ -173,9 +193,6 @@
     "conflict-files-obsidian-git.md",
     "Stavros Meeting 1 28-11-2023.md",
     "Kirushan/Project Management.md",
-    "Kirushan/Project Management (revised).md",
-    "Benas/Brief Overview of Project Deliverables.md",
-    "Kirushan/Kirushan's brief overview of the project.md",
     "Harrison/Object Analysis Notes (2023-10-31) 1.md",
     "Harrison/Group Meeting Notes - Harrison.md",
     "Harrison/Tasks/Task 4 - 4 State Gate Review Meetings (2023-10-30 to 2023-12-15) 1.md",
@@ -184,10 +201,7 @@
     "Harrison/Team Members.md",
     "Sathyan/sustainability.md",
     "Pasted image 20231118194639.png",
-    "Pasted image 20231201104854.png",
     "Harrison/Meetings (Semester 1)/7th Meeting - (2023-11-30).md",
-    "Benas/Group Meeting Notes.md",
-    "Harrison/Meetings (Semester 1)/6th Meeting - (2023..).md",
-    "Harrison/Meetings (Semester 1)/5th Meeting - (2023-11-23).md"
+    "Benas/Group Meeting Notes.md"
   ]
 }
